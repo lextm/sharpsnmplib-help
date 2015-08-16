@@ -1,0 +1,1825 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9e081efc-8fef-4744-a4b8-edd565ba4f6b" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="820e39c8-a0d1-4e15-afca-eaef6b04e996" Title="Lextm.SharpSnmpLib" Url="html/N_Lextm_SharpSnmpLib.htm">
+      <HelpTOCNode Id="40d96c13-62c0-413d-873f-11dfe40035eb" Title="ByteTool Class" Url="html/T_Lextm_SharpSnmpLib_ByteTool.htm">
+        <HelpTOCNode Id="3634ae13-0303-4975-99e7-6af43ff23641" Title="ByteTool Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ByteTool.htm">
+          <HelpTOCNode Id="89da4474-7dcb-46b5-86ec-c2591748df38" Title="Convert Method " Url="html/Overload_Lextm_SharpSnmpLib_ByteTool_Convert.htm">
+            <HelpTOCNode Title="Convert Method (Byte[])" Url="html/M_Lextm_SharpSnmpLib_ByteTool_Convert.htm" />
+            <HelpTOCNode Title="Convert Method (IEnumerable(Char))" Url="html/M_Lextm_SharpSnmpLib_ByteTool_Convert_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ConvertDecimal Method " Url="html/M_Lextm_SharpSnmpLib_ByteTool_ConvertDecimal.htm" />
+          <HelpTOCNode Title="PackMessage Method " Url="html/M_Lextm_SharpSnmpLib_ByteTool_PackMessage.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="69e509ce-6522-4453-82db-140944e8917c" Title="Counter32 Class" Url="html/T_Lextm_SharpSnmpLib_Counter32.htm">
+        <HelpTOCNode Id="f8800d91-23ae-4596-8de9-476874dc76f5" Title="Counter32 Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Counter32__ctor.htm">
+          <HelpTOCNode Title="Counter32 Constructor (Int64)" Url="html/M_Lextm_SharpSnmpLib_Counter32__ctor.htm" />
+          <HelpTOCNode Title="Counter32 Constructor (UInt32)" Url="html/M_Lextm_SharpSnmpLib_Counter32__ctor_2.htm" />
+          <HelpTOCNode Title="Counter32 Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_Counter32__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="2ab6fb9d-6827-470a-9b00-409070193aef" Title="Counter32 Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Counter32.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_Counter32_AppendBytesTo.htm" />
+          <HelpTOCNode Id="3d9fe925-7c0e-4178-85da-1fd99de600f3" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_Counter32_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_Counter32_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (Counter32)" Url="html/M_Lextm_SharpSnmpLib_Counter32_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_Counter32_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Counter32_ToString.htm" />
+          <HelpTOCNode Title="ToUInt32 Method " Url="html/M_Lextm_SharpSnmpLib_Counter32_ToUInt32.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c43c7347-c59a-47de-8fa2-2b672da50a5f" Title="Counter32 Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_Counter32.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_Counter32_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_Counter32_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a22656b9-3efa-4f30-a39e-f151f9e007db" Title="Counter32 Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Counter32.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_Counter32_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b8d28896-7f90-48c0-a20a-2f0f6692f3ea" Title="Counter64 Class" Url="html/T_Lextm_SharpSnmpLib_Counter64.htm">
+        <HelpTOCNode Id="72f06146-4b4a-4380-90ff-72e8a1a2c748" Title="Counter64 Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Counter64__ctor.htm">
+          <HelpTOCNode Title="Counter64 Constructor (UInt64)" Url="html/M_Lextm_SharpSnmpLib_Counter64__ctor_1.htm" />
+          <HelpTOCNode Title="Counter64 Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_Counter64__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="92b3a3b0-8d09-4f02-b532-316e29c45cb8" Title="Counter64 Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Counter64.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_Counter64_AppendBytesTo.htm" />
+          <HelpTOCNode Id="2c3848c7-de8f-4c88-b1c7-6d3d8a2fdc66" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_Counter64_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_Counter64_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (Counter64)" Url="html/M_Lextm_SharpSnmpLib_Counter64_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_Counter64_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Counter64_ToString.htm" />
+          <HelpTOCNode Title="ToUInt64 Method " Url="html/M_Lextm_SharpSnmpLib_Counter64_ToUInt64.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d6838ad4-01b2-40a2-9c33-ccc3a71dd7a6" Title="Counter64 Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_Counter64.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_Counter64_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_Counter64_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="266f2793-59ce-4cbe-99b9-c816d1704437" Title="Counter64 Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Counter64.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_Counter64_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="56083d38-c1f6-47c4-978c-c655e358e29e" Title="DataFactory Class" Url="html/T_Lextm_SharpSnmpLib_DataFactory.htm">
+        <HelpTOCNode Id="10002494-bd9b-4a15-a4fc-6f54c771b70d" Title="DataFactory Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_DataFactory.htm">
+          <HelpTOCNode Id="8d7ee024-edc8-4869-a943-7ceda941e882" Title="CreateSnmpData Method " Url="html/Overload_Lextm_SharpSnmpLib_DataFactory_CreateSnmpData.htm">
+            <HelpTOCNode Title="CreateSnmpData Method (Byte[])" Url="html/M_Lextm_SharpSnmpLib_DataFactory_CreateSnmpData.htm" />
+            <HelpTOCNode Title="CreateSnmpData Method (Stream)" Url="html/M_Lextm_SharpSnmpLib_DataFactory_CreateSnmpData_3.htm" />
+            <HelpTOCNode Title="CreateSnmpData Method (Int32, Stream)" Url="html/M_Lextm_SharpSnmpLib_DataFactory_CreateSnmpData_2.htm" />
+            <HelpTOCNode Title="CreateSnmpData Method (Byte[], Int32, Int32)" Url="html/M_Lextm_SharpSnmpLib_DataFactory_CreateSnmpData_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="DefinitionType Enumeration" Url="html/T_Lextm_SharpSnmpLib_DefinitionType.htm" />
+      <HelpTOCNode Id="9ddf5610-8af0-4a7e-b766-636e10f4ef41" Title="EndOfMibView Class" Url="html/T_Lextm_SharpSnmpLib_EndOfMibView.htm">
+        <HelpTOCNode Id="4e374187-f57d-4997-9f21-0b34f53e24f4" Title="EndOfMibView Constructor " Url="html/Overload_Lextm_SharpSnmpLib_EndOfMibView__ctor.htm">
+          <HelpTOCNode Title="EndOfMibView Constructor " Url="html/M_Lextm_SharpSnmpLib_EndOfMibView__ctor.htm" />
+          <HelpTOCNode Title="EndOfMibView Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_EndOfMibView__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5fe483de-7589-48bf-a461-fb2b6f1dae11" Title="EndOfMibView Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_EndOfMibView.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_EndOfMibView_AppendBytesTo.htm" />
+          <HelpTOCNode Id="951144c4-860e-4adc-98f9-f715c3f46567" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_EndOfMibView_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_EndOfMibView_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (EndOfMibView)" Url="html/M_Lextm_SharpSnmpLib_EndOfMibView_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_EndOfMibView_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_EndOfMibView_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7f98012a-1106-4947-801b-371832c60240" Title="EndOfMibView Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_EndOfMibView.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_EndOfMibView_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_EndOfMibView_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b6372923-e874-43fe-a8ea-8e4291c26969" Title="EndOfMibView Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_EndOfMibView.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_EndOfMibView_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="ErrorCode Enumeration" Url="html/T_Lextm_SharpSnmpLib_ErrorCode.htm" />
+      <HelpTOCNode Id="a80a9289-2cd3-4d00-89bc-29fcb4881a38" Title="Gauge32 Class" Url="html/T_Lextm_SharpSnmpLib_Gauge32.htm">
+        <HelpTOCNode Id="d2deace4-d4b4-41ff-b514-58ad86cc3661" Title="Gauge32 Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Gauge32__ctor.htm">
+          <HelpTOCNode Title="Gauge32 Constructor (Int64)" Url="html/M_Lextm_SharpSnmpLib_Gauge32__ctor.htm" />
+          <HelpTOCNode Title="Gauge32 Constructor (UInt32)" Url="html/M_Lextm_SharpSnmpLib_Gauge32__ctor_2.htm" />
+          <HelpTOCNode Title="Gauge32 Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_Gauge32__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b343100e-8eb1-4e4b-92a9-44affaae91e2" Title="Gauge32 Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Gauge32.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_Gauge32_AppendBytesTo.htm" />
+          <HelpTOCNode Id="0a6b7e0d-bed7-4a96-b5c1-6285fe08a6eb" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_Gauge32_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_Gauge32_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (Gauge32)" Url="html/M_Lextm_SharpSnmpLib_Gauge32_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_Gauge32_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Gauge32_ToString.htm" />
+          <HelpTOCNode Title="ToUInt32 Method " Url="html/M_Lextm_SharpSnmpLib_Gauge32_ToUInt32.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1c0723cd-fe6d-40dd-b9da-7028de6bca54" Title="Gauge32 Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_Gauge32.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_Gauge32_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_Gauge32_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c5a78ae3-9299-4181-8204-82712414a84d" Title="Gauge32 Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Gauge32.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_Gauge32_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="GenericCode Enumeration" Url="html/T_Lextm_SharpSnmpLib_GenericCode.htm" />
+      <HelpTOCNode Id="e55d5477-3ab4-44e1-8f1d-b946cf5fb803" Title="GetBulkRequestPdu Class" Url="html/T_Lextm_SharpSnmpLib_GetBulkRequestPdu.htm">
+        <HelpTOCNode Id="42b2930f-1a65-4b9c-a885-f73f6d1a7517" Title="GetBulkRequestPdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_GetBulkRequestPdu__ctor.htm">
+          <HelpTOCNode Title="GetBulkRequestPdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_GetBulkRequestPdu__ctor_1.htm" />
+          <HelpTOCNode Title="GetBulkRequestPdu Constructor (Int32, Int32, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_GetBulkRequestPdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1a0cfdb4-2a5b-4217-85e6-0027b9c7f912" Title="GetBulkRequestPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_GetBulkRequestPdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_GetBulkRequestPdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_GetBulkRequestPdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="eba04f97-755a-44fd-ba45-3a560d5cef46" Title="GetBulkRequestPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_GetBulkRequestPdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_GetBulkRequestPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_GetBulkRequestPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_GetBulkRequestPdu_RequestId.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_GetBulkRequestPdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_GetBulkRequestPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f07eea5c-c99a-415c-ade5-b6dda8e9658d" Title="GetNextRequestPdu Class" Url="html/T_Lextm_SharpSnmpLib_GetNextRequestPdu.htm">
+        <HelpTOCNode Id="79d3a80c-5f51-48ac-8dd1-095231f0d87a" Title="GetNextRequestPdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_GetNextRequestPdu__ctor.htm">
+          <HelpTOCNode Title="GetNextRequestPdu Constructor (Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_GetNextRequestPdu__ctor_1.htm" />
+          <HelpTOCNode Title="GetNextRequestPdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_GetNextRequestPdu__ctor_2.htm" />
+          <HelpTOCNode Title="GetNextRequestPdu Constructor (Int32, ErrorCode, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_GetNextRequestPdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a4cc1028-a7ee-40da-89e4-dbd9a85e0034" Title="GetNextRequestPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_GetNextRequestPdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_GetNextRequestPdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_GetNextRequestPdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4a42f4c7-7cff-45be-9fbc-32cbd6bbf6a7" Title="GetNextRequestPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_GetNextRequestPdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_GetNextRequestPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_GetNextRequestPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_GetNextRequestPdu_RequestId.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_GetNextRequestPdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_GetNextRequestPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f5068e57-4f57-4faf-b134-8fcf265ad8ae" Title="GetRequestPdu Class" Url="html/T_Lextm_SharpSnmpLib_GetRequestPdu.htm">
+        <HelpTOCNode Id="ae1c5525-e43f-4dbb-959e-0019f3a3ea90" Title="GetRequestPdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_GetRequestPdu__ctor.htm">
+          <HelpTOCNode Title="GetRequestPdu Constructor (Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_GetRequestPdu__ctor_1.htm" />
+          <HelpTOCNode Title="GetRequestPdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_GetRequestPdu__ctor_2.htm" />
+          <HelpTOCNode Title="GetRequestPdu Constructor (Int32, ErrorCode, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_GetRequestPdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f0d8ec2d-21b7-473e-abbd-becb34c4e4ad" Title="GetRequestPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_GetRequestPdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_GetRequestPdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_GetRequestPdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7f4299e6-f1c2-487b-b3eb-6ccf1401eebd" Title="GetRequestPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_GetRequestPdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_GetRequestPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_GetRequestPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_GetRequestPdu_RequestId.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_GetRequestPdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_GetRequestPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1d215d3c-c2f8-47d1-9312-afcc4a9287f6" Title="Header Class" Url="html/T_Lextm_SharpSnmpLib_Header.htm">
+        <HelpTOCNode Id="1dcb8982-164d-4993-8f9b-4c07c33c1c72" Title="Header Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Header__ctor.htm">
+          <HelpTOCNode Title="Header Constructor (Int32)" Url="html/M_Lextm_SharpSnmpLib_Header__ctor_2.htm" />
+          <HelpTOCNode Title="Header Constructor (ISnmpData)" Url="html/M_Lextm_SharpSnmpLib_Header__ctor_1.htm" />
+          <HelpTOCNode Title="Header Constructor (Integer32, Integer32, Levels)" Url="html/M_Lextm_SharpSnmpLib_Header__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f904c2e9-e274-42b5-8bfc-cf52e1563397" Title="Header Fields" Url="html/Fields_T_Lextm_SharpSnmpLib_Header.htm">
+          <HelpTOCNode Title="MaxMessageSize Field" Url="html/F_Lextm_SharpSnmpLib_Header_MaxMessageSize.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="aaedb415-61f1-491e-b4ce-8b15fcfcd013" Title="Header Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Header.htm">
+          <HelpTOCNode Title="GetData Method " Url="html/M_Lextm_SharpSnmpLib_Header_GetData.htm" />
+          <HelpTOCNode Title="ToSequence Method " Url="html/M_Lextm_SharpSnmpLib_Header_ToSequence.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Header_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6907b1e3-6508-43e4-a768-c0f33f0fe619" Title="Header Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Header.htm">
+          <HelpTOCNode Title="Empty Property " Url="html/P_Lextm_SharpSnmpLib_Header_Empty.htm" />
+          <HelpTOCNode Title="MaxSize Property " Url="html/P_Lextm_SharpSnmpLib_Header_MaxSize.htm" />
+          <HelpTOCNode Title="MessageId Property " Url="html/P_Lextm_SharpSnmpLib_Header_MessageId.htm" />
+          <HelpTOCNode Title="SecurityLevel Property " Url="html/P_Lextm_SharpSnmpLib_Header_SecurityLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe2b9a97-7926-4c00-a767-f9eeb2615e02" Title="Helper Class" Url="html/T_Lextm_SharpSnmpLib_Helper.htm">
+        <HelpTOCNode Id="e27394c8-a3c3-479e-b165-d9671a7f7638" Title="Helper Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Helper.htm">
+          <HelpTOCNode Title="ToIPAddress Method " Url="html/M_Lextm_SharpSnmpLib_Helper_ToIPAddress.htm" />
+          <HelpTOCNode Title="ToPhysicalAddress Method " Url="html/M_Lextm_SharpSnmpLib_Helper_ToPhysicalAddress.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fe3fe37a-d70e-43f8-b245-4c34332864e8" Title="IConstruct Interface" Url="html/T_Lextm_SharpSnmpLib_IConstruct.htm">
+        <HelpTOCNode Id="e284d6a6-8547-4a27-acb3-58857a015087" Title="IConstruct Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_IConstruct.htm">
+          <HelpTOCNode Title="CharPositionInLine Property " Url="html/P_Lextm_SharpSnmpLib_IConstruct_CharPositionInLine.htm" />
+          <HelpTOCNode Title="Line Property " Url="html/P_Lextm_SharpSnmpLib_IConstruct_Line.htm" />
+          <HelpTOCNode Title="Module Property " Url="html/P_Lextm_SharpSnmpLib_IConstruct_Module.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_Lextm_SharpSnmpLib_IConstruct_Name.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5758d1e4-e22e-45de-aaf4-594f49ec78fd" Title="IDefinition Interface" Url="html/T_Lextm_SharpSnmpLib_IDefinition.htm">
+        <HelpTOCNode Id="69bb4d76-07e9-4ed4-9bb2-e6e8cde2bc86" Title="IDefinition Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_IDefinition.htm">
+          <HelpTOCNode Title="Append Method " Url="html/M_Lextm_SharpSnmpLib_IDefinition_Append.htm" />
+          <HelpTOCNode Title="Clear Method " Url="html/M_Lextm_SharpSnmpLib_IDefinition_Clear.htm" />
+          <HelpTOCNode Title="GetChildAt Method " Url="html/M_Lextm_SharpSnmpLib_IDefinition_GetChildAt.htm" />
+          <HelpTOCNode Title="GetNumericalForm Method " Url="html/M_Lextm_SharpSnmpLib_IDefinition_GetNumericalForm.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="feedcbee-c12f-43ed-993a-6cb8c31b4f5f" Title="IDefinition Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_IDefinition.htm">
+          <HelpTOCNode Title="Children Property " Url="html/P_Lextm_SharpSnmpLib_IDefinition_Children.htm" />
+          <HelpTOCNode Title="Entity Property " Url="html/P_Lextm_SharpSnmpLib_IDefinition_Entity.htm" />
+          <HelpTOCNode Title="Module Property " Url="html/P_Lextm_SharpSnmpLib_IDefinition_Module.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_Lextm_SharpSnmpLib_IDefinition_Name.htm" />
+          <HelpTOCNode Title="ParentDefinition Property " Url="html/P_Lextm_SharpSnmpLib_IDefinition_ParentDefinition.htm" />
+          <HelpTOCNode Title="Type Property " Url="html/P_Lextm_SharpSnmpLib_IDefinition_Type.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_Lextm_SharpSnmpLib_IDefinition_Value.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="99671c31-fc76-497b-98aa-6eecc9612b66" Title="IEntity Interface" Url="html/T_Lextm_SharpSnmpLib_IEntity.htm">
+        <HelpTOCNode Id="59910ef4-b823-4b02-b1cb-cde0ca0a099a" Title="IEntity Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_IEntity.htm">
+          <HelpTOCNode Title="Parent Property " Url="html/P_Lextm_SharpSnmpLib_IEntity_Parent.htm" />
+          <HelpTOCNode Title="ParentModule Property " Url="html/P_Lextm_SharpSnmpLib_IEntity_ParentModule.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_Lextm_SharpSnmpLib_IEntity_Value.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5e4924b4-db8b-452d-81b7-ae1ed3075690" Title="IModule Interface" Url="html/T_Lextm_SharpSnmpLib_IModule.htm">
+        <HelpTOCNode Id="d0cbe496-863b-4048-a9c8-cddf47388346" Title="IModule Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_IModule.htm">
+          <HelpTOCNode Title="Entities Property " Url="html/P_Lextm_SharpSnmpLib_IModule_Entities.htm" />
+          <HelpTOCNode Title="FileName Property " Url="html/P_Lextm_SharpSnmpLib_IModule_FileName.htm" />
+          <HelpTOCNode Title="Name Property " Url="html/P_Lextm_SharpSnmpLib_IModule_Name.htm" />
+          <HelpTOCNode Title="Objects Property " Url="html/P_Lextm_SharpSnmpLib_IModule_Objects.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0640000e-c6c0-4adb-903c-a4ceb80ee6de" Title="InformRequestPdu Class" Url="html/T_Lextm_SharpSnmpLib_InformRequestPdu.htm">
+        <HelpTOCNode Id="3867dc2f-36f4-484f-b226-d8095ae58e15" Title="InformRequestPdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_InformRequestPdu__ctor.htm">
+          <HelpTOCNode Title="InformRequestPdu Constructor (Int32)" Url="html/M_Lextm_SharpSnmpLib_InformRequestPdu__ctor.htm" />
+          <HelpTOCNode Title="InformRequestPdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_InformRequestPdu__ctor_2.htm" />
+          <HelpTOCNode Title="InformRequestPdu Constructor (Int32, ObjectIdentifier, UInt32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_InformRequestPdu__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c626a10a-b6d9-4578-944a-7d08950a6b3e" Title="InformRequestPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_InformRequestPdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_InformRequestPdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_InformRequestPdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="de1c314a-71be-4304-8cf6-598893e50e0e" Title="InformRequestPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_InformRequestPdu.htm">
+          <HelpTOCNode Title="Enterprise Property " Url="html/P_Lextm_SharpSnmpLib_InformRequestPdu_Enterprise.htm" />
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_InformRequestPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_InformRequestPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_InformRequestPdu_RequestId.htm" />
+          <HelpTOCNode Title="TimeStamp Property " Url="html/P_Lextm_SharpSnmpLib_InformRequestPdu_TimeStamp.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_InformRequestPdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_InformRequestPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e0772b2-3a4f-4bc5-8b8b-810de6aca439" Title="Integer32 Class" Url="html/T_Lextm_SharpSnmpLib_Integer32.htm">
+        <HelpTOCNode Id="93ee7ae6-a4b7-4d5f-a473-00a6e945b274" Title="Integer32 Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Integer32__ctor.htm">
+          <HelpTOCNode Title="Integer32 Constructor (Int32)" Url="html/M_Lextm_SharpSnmpLib_Integer32__ctor.htm" />
+          <HelpTOCNode Title="Integer32 Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_Integer32__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c0e0786a-8317-4070-a978-c8cbf7fbc296" Title="Integer32 Fields" Url="html/Fields_T_Lextm_SharpSnmpLib_Integer32.htm">
+          <HelpTOCNode Title="Zero Field" Url="html/F_Lextm_SharpSnmpLib_Integer32_Zero.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="49f08b42-2bbd-4618-9add-9503fa5b13db" Title="Integer32 Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Integer32.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_Integer32_AppendBytesTo.htm" />
+          <HelpTOCNode Id="2f5c943f-a389-4d2f-a440-1724fb08926a" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_Integer32_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_Integer32_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (Integer32)" Url="html/M_Lextm_SharpSnmpLib_Integer32_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_Integer32_GetHashCode.htm" />
+          <HelpTOCNode Title="ToErrorCode Method " Url="html/M_Lextm_SharpSnmpLib_Integer32_ToErrorCode.htm" />
+          <HelpTOCNode Title="ToInt32 Method " Url="html/M_Lextm_SharpSnmpLib_Integer32_ToInt32.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Integer32_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3f31c14f-3d1d-4c10-9b66-0906b23ab725" Title="Integer32 Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_Integer32.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_Integer32_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_Integer32_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7ed7441d-d1b2-4109-b551-3d7e4b3b340d" Title="Integer32 Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Integer32.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_Integer32_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f9abcf27-d59b-40cf-ad6b-d6949ef14079" Title="IObjectRegistry Interface" Url="html/T_Lextm_SharpSnmpLib_IObjectRegistry.htm">
+        <HelpTOCNode Id="5af74354-dda7-48fe-9425-8c15444b0f78" Title="IObjectRegistry Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_IObjectRegistry.htm">
+          <HelpTOCNode Id="496b8c7c-c479-489f-8a1e-84e16f6ebba9" Title="CreateVariable Method " Url="html/Overload_Lextm_SharpSnmpLib_IObjectRegistry_CreateVariable.htm">
+            <HelpTOCNode Title="CreateVariable Method (String)" Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_CreateVariable.htm" />
+            <HelpTOCNode Title="CreateVariable Method (String, ISnmpData)" Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_CreateVariable_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Import Method " Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_Import.htm" />
+          <HelpTOCNode Title="Refresh Method " Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_Refresh.htm" />
+          <HelpTOCNode Id="5bf80a35-a133-4f42-84f5-fed4bd6fe2f0" Title="Translate Method " Url="html/Overload_Lextm_SharpSnmpLib_IObjectRegistry_Translate.htm">
+            <HelpTOCNode Title="Translate Method (String)" Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_Translate.htm" />
+            <HelpTOCNode Title="Translate Method (UInt32[])" Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_Translate_2.htm" />
+            <HelpTOCNode Title="Translate Method (String, String)" Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_Translate_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ValidateTable Method " Url="html/M_Lextm_SharpSnmpLib_IObjectRegistry_ValidateTable.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e72eb5c8-e344-47f9-bcf0-fccc57282cfe" Title="IObjectRegistry Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_IObjectRegistry.htm">
+          <HelpTOCNode Title="Tree Property " Url="html/P_Lextm_SharpSnmpLib_IObjectRegistry_Tree.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1a6cb8d6-7da6-46dd-9e24-6b9fb7a203f8" Title="IObjectRegistry Events" Url="html/Events_T_Lextm_SharpSnmpLib_IObjectRegistry.htm">
+          <HelpTOCNode Title="OnChanged Event" Url="html/E_Lextm_SharpSnmpLib_IObjectRegistry_OnChanged.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="30351400-ab53-4140-a060-00ef6a6b8a4d" Title="IObjectTree Interface" Url="html/T_Lextm_SharpSnmpLib_IObjectTree.htm">
+        <HelpTOCNode Id="9544d34a-b3a1-4cc5-96de-84f3758c12bd" Title="IObjectTree Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_IObjectTree.htm">
+          <HelpTOCNode Title="Find Method " Url="html/M_Lextm_SharpSnmpLib_IObjectTree_Find.htm" />
+          <HelpTOCNode Title="Import Method " Url="html/M_Lextm_SharpSnmpLib_IObjectTree_Import.htm" />
+          <HelpTOCNode Title="Refresh Method " Url="html/M_Lextm_SharpSnmpLib_IObjectTree_Refresh.htm" />
+          <HelpTOCNode Title="Remove Method " Url="html/M_Lextm_SharpSnmpLib_IObjectTree_Remove.htm" />
+          <HelpTOCNode Title="Search Method " Url="html/M_Lextm_SharpSnmpLib_IObjectTree_Search.htm" />
+          <HelpTOCNode Title="Unload Method " Url="html/M_Lextm_SharpSnmpLib_IObjectTree_Unload.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8bd1aac7-ded7-40e7-ada7-07f944f84b7d" Title="IObjectTree Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_IObjectTree.htm">
+          <HelpTOCNode Title="LoadedModules Property " Url="html/P_Lextm_SharpSnmpLib_IObjectTree_LoadedModules.htm" />
+          <HelpTOCNode Title="PendingModules Property " Url="html/P_Lextm_SharpSnmpLib_IObjectTree_PendingModules.htm" />
+          <HelpTOCNode Title="Root Property " Url="html/P_Lextm_SharpSnmpLib_IObjectTree_Root.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8c46d762-609e-449d-b65b-f5597dedd5ba" Title="IP Class" Url="html/T_Lextm_SharpSnmpLib_IP.htm">
+        <HelpTOCNode Id="287cb700-c386-4605-9a9e-c7edd8154fd7" Title="IP Constructor " Url="html/Overload_Lextm_SharpSnmpLib_IP__ctor.htm">
+          <HelpTOCNode Title="IP Constructor (Byte[])" Url="html/M_Lextm_SharpSnmpLib_IP__ctor.htm" />
+          <HelpTOCNode Title="IP Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_IP__ctor_1.htm" />
+          <HelpTOCNode Title="IP Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_IP__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="02521604-1ae5-4a94-b1b2-75f123c60303" Title="IP Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_IP.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_IP_AppendBytesTo.htm" />
+          <HelpTOCNode Id="7c7d3ff6-a62e-4566-a069-f3817261cfdf" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_IP_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_IP_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (IP)" Url="html/M_Lextm_SharpSnmpLib_IP_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_IP_GetHashCode.htm" />
+          <HelpTOCNode Title="GetRaw Method " Url="html/M_Lextm_SharpSnmpLib_IP_GetRaw.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_IP_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="27febe99-f5f7-4cfc-8e03-3030d43efe83" Title="IP Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_IP.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_IP_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_IP_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="923067d0-997c-4113-a4c9-30a02259abcd" Title="IP Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_IP.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_IP_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="06d4cb99-0786-4f4f-888a-640772b87540" Title="ISegment Interface" Url="html/T_Lextm_SharpSnmpLib_ISegment.htm">
+        <HelpTOCNode Id="df22c53e-57b9-41bd-baa9-3794e7bf5346" Title="ISegment Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ISegment.htm">
+          <HelpTOCNode Title="GetData Method " Url="html/M_Lextm_SharpSnmpLib_ISegment_GetData.htm" />
+          <HelpTOCNode Title="ToSequence Method " Url="html/M_Lextm_SharpSnmpLib_ISegment_ToSequence.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a138fe1b-e0df-4a81-aee9-4e97873c8957" Title="ISnmpData Interface" Url="html/T_Lextm_SharpSnmpLib_ISnmpData.htm">
+        <HelpTOCNode Id="8247d5fb-9052-4b9a-8b03-fc9accd5ca45" Title="ISnmpData Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ISnmpData.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_ISnmpData_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_ISnmpData_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="47620280-e5f2-46dc-93af-c2aebb91b9ac" Title="ISnmpData Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_ISnmpData.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_ISnmpData_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d215f0f8-4020-4d1a-956f-4efddbe39e4e" Title="ISnmpPdu Interface" Url="html/T_Lextm_SharpSnmpLib_ISnmpPdu.htm">
+        <HelpTOCNode Title="ISnmpPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ISnmpPdu.htm" />
+        <HelpTOCNode Id="8bb111d9-0470-452e-84fd-39dd7e0966a2" Title="ISnmpPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_ISnmpPdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_ISnmpPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_ISnmpPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_ISnmpPdu_RequestId.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_ISnmpPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1424981e-67f0-4d1d-97b9-a430ae88f0af" Title="ITypeAssignment Interface" Url="html/T_Lextm_SharpSnmpLib_ITypeAssignment.htm">
+        <HelpTOCNode Title="ITypeAssignment Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_ITypeAssignment.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Levels Enumeration" Url="html/T_Lextm_SharpSnmpLib_Levels.htm" />
+      <HelpTOCNode Id="b0b244c7-4e6a-4056-9eb7-0376c631d064" Title="MalformedPdu Class" Url="html/T_Lextm_SharpSnmpLib_MalformedPdu.htm">
+        <HelpTOCNode Title="MalformedPdu Constructor " Url="html/M_Lextm_SharpSnmpLib_MalformedPdu__ctor.htm" />
+        <HelpTOCNode Id="6b583194-cdac-4701-b42d-406206824fb5" Title="MalformedPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_MalformedPdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_MalformedPdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_MalformedPdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="52bace1f-8592-4830-9821-1f885976835e" Title="MalformedPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_MalformedPdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_MalformedPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_MalformedPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_MalformedPdu_RequestId.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_MalformedPdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_MalformedPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6ad4fcc6-1598-4f68-bc30-96da45dd1a51" Title="NoSuchInstance Class" Url="html/T_Lextm_SharpSnmpLib_NoSuchInstance.htm">
+        <HelpTOCNode Id="2108d5ae-0e0b-4ffc-9291-70881e30f741" Title="NoSuchInstance Constructor " Url="html/Overload_Lextm_SharpSnmpLib_NoSuchInstance__ctor.htm">
+          <HelpTOCNode Title="NoSuchInstance Constructor " Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance__ctor.htm" />
+          <HelpTOCNode Title="NoSuchInstance Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="709f0209-6aa2-4ea4-99c9-9d22b5ca3199" Title="NoSuchInstance Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_NoSuchInstance.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance_AppendBytesTo.htm" />
+          <HelpTOCNode Id="a007f62c-bc0a-46f7-bcb3-4be0ba395851" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_NoSuchInstance_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (NoSuchInstance)" Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8cd41578-bcd7-4fcb-b5d5-07b0513b72cb" Title="NoSuchInstance Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_NoSuchInstance.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_NoSuchInstance_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="49345bfb-27f7-446d-80c6-122a536d1c98" Title="NoSuchInstance Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_NoSuchInstance.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_NoSuchInstance_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e9ee3e6b-2f52-475c-817c-2194b25988d4" Title="NoSuchObject Class" Url="html/T_Lextm_SharpSnmpLib_NoSuchObject.htm">
+        <HelpTOCNode Id="7149f658-4091-47f1-a084-baa32ad0d961" Title="NoSuchObject Constructor " Url="html/Overload_Lextm_SharpSnmpLib_NoSuchObject__ctor.htm">
+          <HelpTOCNode Title="NoSuchObject Constructor " Url="html/M_Lextm_SharpSnmpLib_NoSuchObject__ctor.htm" />
+          <HelpTOCNode Title="NoSuchObject Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_NoSuchObject__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="de6dc377-31f0-49ef-9ff1-dbf771e26aab" Title="NoSuchObject Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_NoSuchObject.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_NoSuchObject_AppendBytesTo.htm" />
+          <HelpTOCNode Id="50ad6b29-bcf6-475c-a075-caecf9933068" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_NoSuchObject_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_NoSuchObject_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (NoSuchObject)" Url="html/M_Lextm_SharpSnmpLib_NoSuchObject_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_NoSuchObject_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_NoSuchObject_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1941b2bc-010d-4a98-83a5-e4b41a5d0ed9" Title="NoSuchObject Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_NoSuchObject.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_NoSuchObject_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_NoSuchObject_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c22f9ee6-11de-48bc-a996-5fb9675c7871" Title="NoSuchObject Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_NoSuchObject.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_NoSuchObject_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6be6bb99-67a7-4a08-aa29-fdd719b9c923" Title="Null Class" Url="html/T_Lextm_SharpSnmpLib_Null.htm">
+        <HelpTOCNode Id="4b05f4aa-c6d5-41d8-9417-3cb80d8c0b9a" Title="Null Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Null__ctor.htm">
+          <HelpTOCNode Title="Null Constructor " Url="html/M_Lextm_SharpSnmpLib_Null__ctor.htm" />
+          <HelpTOCNode Title="Null Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_Null__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="504e974a-d376-41fe-a43b-de0eaff2e17b" Title="Null Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Null.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_Null_AppendBytesTo.htm" />
+          <HelpTOCNode Id="81769d36-1e98-47cc-a7de-3c5ff7c45be4" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_Null_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_Null_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (Null)" Url="html/M_Lextm_SharpSnmpLib_Null_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_Null_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Null_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a1da9b1b-c4c5-467e-bee1-4a49d194871a" Title="Null Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_Null.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_Null_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_Null_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="322354d7-af2b-442f-9d03-3054bbfdcc53" Title="Null Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Null.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_Null_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6a7467d9-8cbf-4b7f-9aef-b9b5461d44c3" Title="ObjectIdentifier Class" Url="html/T_Lextm_SharpSnmpLib_ObjectIdentifier.htm">
+        <HelpTOCNode Id="e5a84dd9-c20b-450f-a93a-1ea665239f78" Title="ObjectIdentifier Constructor " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifier__ctor.htm">
+          <HelpTOCNode Title="ObjectIdentifier Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier__ctor.htm" />
+          <HelpTOCNode Title="ObjectIdentifier Constructor (UInt32[])" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier__ctor_2.htm" />
+          <HelpTOCNode Title="ObjectIdentifier Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9d87b5bf-a75f-4e1e-abea-bc6149a3f2ff" Title="ObjectIdentifier Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ObjectIdentifier.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_AppendBytesTo.htm" />
+          <HelpTOCNode Title="AppendTo Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_AppendTo.htm" />
+          <HelpTOCNode Title="Compare Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_Compare.htm" />
+          <HelpTOCNode Id="4de585e0-b746-43fd-8829-7b7847baccbf" Title="CompareTo Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifier_CompareTo.htm">
+            <HelpTOCNode Title="CompareTo Method (Object)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_CompareTo_1.htm" />
+            <HelpTOCNode Title="CompareTo Method (ObjectIdentifier)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_CompareTo.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="9ccea18b-c64b-4421-9665-1fe76fdd76f1" Title="Convert Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifier_Convert.htm">
+            <HelpTOCNode Title="Convert Method (String)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_Convert.htm" />
+            <HelpTOCNode Title="Convert Method (UInt32[])" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_Convert_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Create Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_Create.htm" />
+          <HelpTOCNode Id="f01c61c1-f1ec-4e81-8b17-410b249802ed" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifier_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (ObjectIdentifier)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_GetHashCode.htm" />
+          <HelpTOCNode Title="ToNumerical Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_ToNumerical.htm" />
+          <HelpTOCNode Id="dc458a39-1703-4597-bdab-ca23579da925" Title="ToString Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifier_ToString.htm">
+            <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_ToString.htm" />
+            <HelpTOCNode Title="ToString Method (IObjectRegistry)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_ToString_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="ff811315-b003-48af-8287-009f6f2d8573" Title="ObjectIdentifier Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_ObjectIdentifier.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_op_Equality.htm" />
+          <HelpTOCNode Title="GreaterThan Operator " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_op_GreaterThan.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_op_Inequality.htm" />
+          <HelpTOCNode Title="LessThan Operator " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifier_op_LessThan.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d80cb68f-b879-4275-9d14-ab6f6f85fae1" Title="ObjectIdentifier Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_ObjectIdentifier.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_ObjectIdentifier_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6ad86456-7ca6-4538-a644-183f1ce86e3a" Title="ObjectIdentifierConverter Class" Url="html/T_Lextm_SharpSnmpLib_ObjectIdentifierConverter.htm">
+        <HelpTOCNode Title="ObjectIdentifierConverter Constructor " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifierConverter__ctor.htm" />
+        <HelpTOCNode Id="aa671642-69ea-4e04-a39c-38c29191078f" Title="ObjectIdentifierConverter Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ObjectIdentifierConverter.htm">
+          <HelpTOCNode Id="55988fe1-93c0-441c-82e5-d68aa4d15ebe" Title="CanConvertFrom Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifierConverter_CanConvertFrom.htm">
+            <HelpTOCNode Title="CanConvertFrom Method (ITypeDescriptorContext, Type)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifierConverter_CanConvertFrom.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="f086d5fc-0259-43b9-875e-328e07f2a90a" Title="CanConvertTo Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifierConverter_CanConvertTo.htm">
+            <HelpTOCNode Title="CanConvertTo Method (ITypeDescriptorContext, Type)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifierConverter_CanConvertTo.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="114f1b7f-11c4-499c-84b4-305d02d8ec56" Title="ConvertFrom Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifierConverter_ConvertFrom.htm">
+            <HelpTOCNode Title="ConvertFrom Method (ITypeDescriptorContext, CultureInfo, Object)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifierConverter_ConvertFrom.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="940784b2-bd07-40e5-9b4e-0521225c6a49" Title="ConvertTo Method " Url="html/Overload_Lextm_SharpSnmpLib_ObjectIdentifierConverter_ConvertTo.htm">
+            <HelpTOCNode Title="ConvertTo Method (ITypeDescriptorContext, CultureInfo, Object, Type)" Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifierConverter_ConvertTo.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_ObjectIdentifierConverter_ToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="56fd6582-620a-4181-9af1-f8dc04f78311" Title="OctetString Class" Url="html/T_Lextm_SharpSnmpLib_OctetString.htm">
+        <HelpTOCNode Id="ca38f329-576b-4aa2-b2a4-09305f975bd4" Title="OctetString Constructor " Url="html/Overload_Lextm_SharpSnmpLib_OctetString__ctor.htm">
+          <HelpTOCNode Title="OctetString Constructor (Byte[])" Url="html/M_Lextm_SharpSnmpLib_OctetString__ctor_1.htm" />
+          <HelpTOCNode Title="OctetString Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_OctetString__ctor_2.htm" />
+          <HelpTOCNode Title="OctetString Constructor (Levels)" Url="html/M_Lextm_SharpSnmpLib_OctetString__ctor.htm" />
+          <HelpTOCNode Title="OctetString Constructor (String, Encoding)" Url="html/M_Lextm_SharpSnmpLib_OctetString__ctor_3.htm" />
+          <HelpTOCNode Title="OctetString Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_OctetString__ctor_4.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ed1481fd-806e-4532-9b19-3f87c5dcf2ea" Title="OctetString Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_OctetString.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_OctetString_AppendBytesTo.htm" />
+          <HelpTOCNode Id="13bbbcec-58d8-4d3c-bc7a-240aa298a34d" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_OctetString_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_OctetString_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (OctetString)" Url="html/M_Lextm_SharpSnmpLib_OctetString_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_OctetString_GetHashCode.htm" />
+          <HelpTOCNode Title="GetRaw Method " Url="html/M_Lextm_SharpSnmpLib_OctetString_GetRaw.htm" />
+          <HelpTOCNode Title="IsNullOrEmpty Method " Url="html/M_Lextm_SharpSnmpLib_OctetString_IsNullOrEmpty.htm" />
+          <HelpTOCNode Title="ToHexString Method " Url="html/M_Lextm_SharpSnmpLib_OctetString_ToHexString.htm" />
+          <HelpTOCNode Title="ToLevels Method " Url="html/M_Lextm_SharpSnmpLib_OctetString_ToLevels.htm" />
+          <HelpTOCNode Id="278011f5-2f33-4e30-b98b-65c86a6eb1f1" Title="ToString Method " Url="html/Overload_Lextm_SharpSnmpLib_OctetString_ToString.htm">
+            <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_OctetString_ToString.htm" />
+            <HelpTOCNode Title="ToString Method (Encoding)" Url="html/M_Lextm_SharpSnmpLib_OctetString_ToString_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="9753cd51-fdc7-4b62-a30a-6ea62184ecfa" Title="OctetString Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_OctetString.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_OctetString_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_OctetString_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bb0d0aa1-98c2-4060-9210-6e3f8d8c5e71" Title="OctetString Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_OctetString.htm">
+          <HelpTOCNode Title="DefaultEncoding Property " Url="html/P_Lextm_SharpSnmpLib_OctetString_DefaultEncoding.htm" />
+          <HelpTOCNode Title="Empty Property " Url="html/P_Lextm_SharpSnmpLib_OctetString_Empty.htm" />
+          <HelpTOCNode Title="Encoding Property " Url="html/P_Lextm_SharpSnmpLib_OctetString_Encoding.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_OctetString_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="932fc144-429c-4fcf-b852-4dd9017b9567" Title="Opaque Class" Url="html/T_Lextm_SharpSnmpLib_Opaque.htm">
+        <HelpTOCNode Title="Opaque Constructor " Url="html/M_Lextm_SharpSnmpLib_Opaque__ctor.htm" />
+        <HelpTOCNode Id="1902c7ad-6695-4a3e-b2c3-9245926f6fd4" Title="Opaque Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Opaque.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_Opaque_AppendBytesTo.htm" />
+          <HelpTOCNode Id="d49680d7-e40a-4590-b591-984a1b2c8794" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_Opaque_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_Opaque_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (Opaque)" Url="html/M_Lextm_SharpSnmpLib_Opaque_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_Opaque_GetHashCode.htm" />
+          <HelpTOCNode Title="GetRaw Method " Url="html/M_Lextm_SharpSnmpLib_Opaque_GetRaw.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Opaque_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3254e817-3604-4bc7-8e37-96b49234da7d" Title="Opaque Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_Opaque.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_Opaque_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_Opaque_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ad3d5a78-08e5-4d12-b7c1-eee3598d6bce" Title="Opaque Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Opaque.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_Opaque_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="31d4ad3c-67a1-4b76-b55f-c5d9ff0d1525" Title="OperationException Class" Url="html/T_Lextm_SharpSnmpLib_OperationException.htm">
+        <HelpTOCNode Id="cc3b38ce-8dd6-41ee-a1b8-e1a82fab2955" Title="OperationException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_OperationException__ctor.htm">
+          <HelpTOCNode Title="OperationException Constructor " Url="html/M_Lextm_SharpSnmpLib_OperationException__ctor.htm" />
+          <HelpTOCNode Title="OperationException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_OperationException__ctor_1.htm" />
+          <HelpTOCNode Title="OperationException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_OperationException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a0c2c0d0-c2c0-4968-9552-2f5c57918918" Title="OperationException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_OperationException.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_Lextm_SharpSnmpLib_OperationException_Create.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="28b54101-90da-44b8-a7da-4679026d044e" Title="OperationException Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_OperationException.htm">
+          <HelpTOCNode Title="Agent Property " Url="html/P_Lextm_SharpSnmpLib_OperationException_Agent.htm" />
+          <HelpTOCNode Title="Details Property " Url="html/P_Lextm_SharpSnmpLib_OperationException_Details.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="3784899b-af9e-4986-b4bb-aedddb4fd06f" Title="ReportPdu Class" Url="html/T_Lextm_SharpSnmpLib_ReportPdu.htm">
+        <HelpTOCNode Id="cac09a2b-c260-4e47-b16f-cba2e7408b40" Title="ReportPdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_ReportPdu__ctor.htm">
+          <HelpTOCNode Title="ReportPdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_ReportPdu__ctor_1.htm" />
+          <HelpTOCNode Title="ReportPdu Constructor (Int32, ErrorCode, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_ReportPdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="eb7ba925-e456-4b2f-95b0-c725e8ae5372" Title="ReportPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ReportPdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_ReportPdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_ReportPdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="25cbf8cd-61aa-40f6-a94e-b9f62d233274" Title="ReportPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_ReportPdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_ReportPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_ReportPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_ReportPdu_RequestId.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_ReportPdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_ReportPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="060b6d3e-0428-4e30-b93f-f20fcc8324fa" Title="ResponsePdu Class" Url="html/T_Lextm_SharpSnmpLib_ResponsePdu.htm">
+        <HelpTOCNode Id="2b9baf34-5231-428c-a74f-0949a9d71655" Title="ResponsePdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_ResponsePdu__ctor.htm">
+          <HelpTOCNode Title="ResponsePdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_ResponsePdu__ctor_1.htm" />
+          <HelpTOCNode Title="ResponsePdu Constructor (Int32, ErrorCode, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_ResponsePdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="47238990-a905-4146-8005-937d128cd733" Title="ResponsePdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_ResponsePdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_ResponsePdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_ResponsePdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a2b444ee-6780-44a9-94f0-1172784fb2eb" Title="ResponsePdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_ResponsePdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_ResponsePdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_ResponsePdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_ResponsePdu_RequestId.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_ResponsePdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_ResponsePdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="58c54abb-7fbc-4ab9-9ec8-e03686ab330e" Title="Scope Class" Url="html/T_Lextm_SharpSnmpLib_Scope.htm">
+        <HelpTOCNode Id="177702f0-72e0-4981-9a4a-6ff7416c2702" Title="Scope Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Scope__ctor.htm">
+          <HelpTOCNode Title="Scope Constructor (ISnmpPdu)" Url="html/M_Lextm_SharpSnmpLib_Scope__ctor.htm" />
+          <HelpTOCNode Title="Scope Constructor (Sequence)" Url="html/M_Lextm_SharpSnmpLib_Scope__ctor_2.htm" />
+          <HelpTOCNode Title="Scope Constructor (OctetString, OctetString, ISnmpPdu)" Url="html/M_Lextm_SharpSnmpLib_Scope__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e7e7b04e-463b-4896-a6b1-04b78ef5d360" Title="Scope Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Scope.htm">
+          <HelpTOCNode Title="GetData Method " Url="html/M_Lextm_SharpSnmpLib_Scope_GetData.htm" />
+          <HelpTOCNode Title="ToSequence Method " Url="html/M_Lextm_SharpSnmpLib_Scope_ToSequence.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="bb250ad6-d0d8-4ac1-b9d7-d36cf6ca8981" Title="Scope Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Scope.htm">
+          <HelpTOCNode Title="ContextEngineId Property " Url="html/P_Lextm_SharpSnmpLib_Scope_ContextEngineId.htm" />
+          <HelpTOCNode Title="ContextName Property " Url="html/P_Lextm_SharpSnmpLib_Scope_ContextName.htm" />
+          <HelpTOCNode Title="Pdu Property " Url="html/P_Lextm_SharpSnmpLib_Scope_Pdu.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="04f12b47-801a-43ae-9437-225757f6dc32" Title="SearchResult Class" Url="html/T_Lextm_SharpSnmpLib_SearchResult.htm">
+        <HelpTOCNode Id="8345c39d-b996-4762-ad97-4b452f4b68e1" Title="SearchResult Constructor " Url="html/Overload_Lextm_SharpSnmpLib_SearchResult__ctor.htm">
+          <HelpTOCNode Title="SearchResult Constructor (IDefinition)" Url="html/M_Lextm_SharpSnmpLib_SearchResult__ctor.htm" />
+          <HelpTOCNode Title="SearchResult Constructor (IDefinition, UInt32[])" Url="html/M_Lextm_SharpSnmpLib_SearchResult__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="58cc0f32-cbaf-4e95-9259-fc74f5ec7c15" Title="SearchResult Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_SearchResult.htm">
+          <HelpTOCNode Title="GetRemaining Method " Url="html/M_Lextm_SharpSnmpLib_SearchResult_GetRemaining.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3434f437-c4a4-4660-b761-68829c204bcd" Title="SearchResult Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_SearchResult.htm">
+          <HelpTOCNode Title="AlternativeText Property " Url="html/P_Lextm_SharpSnmpLib_SearchResult_AlternativeText.htm" />
+          <HelpTOCNode Title="Definition Property " Url="html/P_Lextm_SharpSnmpLib_SearchResult_Definition.htm" />
+          <HelpTOCNode Title="Text Property " Url="html/P_Lextm_SharpSnmpLib_SearchResult_Text.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="aff86c62-ef24-440a-9619-88eb511ef732" Title="SecurityParameters Class" Url="html/T_Lextm_SharpSnmpLib_SecurityParameters.htm">
+        <HelpTOCNode Id="d8ae7f9a-7c2f-45b6-8bec-0b0f17f37c77" Title="SecurityParameters Constructor " Url="html/Overload_Lextm_SharpSnmpLib_SecurityParameters__ctor.htm">
+          <HelpTOCNode Title="SecurityParameters Constructor (OctetString)" Url="html/M_Lextm_SharpSnmpLib_SecurityParameters__ctor.htm" />
+          <HelpTOCNode Title="SecurityParameters Constructor (OctetString, Integer32, Integer32, OctetString, OctetString, OctetString)" Url="html/M_Lextm_SharpSnmpLib_SecurityParameters__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d8f80705-1e8a-4875-8ca8-0d29cc6ed6dc" Title="SecurityParameters Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_SecurityParameters.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_Lextm_SharpSnmpLib_SecurityParameters_Create.htm" />
+          <HelpTOCNode Title="GetData Method " Url="html/M_Lextm_SharpSnmpLib_SecurityParameters_GetData.htm" />
+          <HelpTOCNode Title="ToSequence Method " Url="html/M_Lextm_SharpSnmpLib_SecurityParameters_ToSequence.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_SecurityParameters_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3ed5f039-9cca-4681-a903-01e186664400" Title="SecurityParameters Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_SecurityParameters.htm">
+          <HelpTOCNode Title="AuthenticationParameters Property " Url="html/P_Lextm_SharpSnmpLib_SecurityParameters_AuthenticationParameters.htm" />
+          <HelpTOCNode Title="EngineBoots Property " Url="html/P_Lextm_SharpSnmpLib_SecurityParameters_EngineBoots.htm" />
+          <HelpTOCNode Title="EngineId Property " Url="html/P_Lextm_SharpSnmpLib_SecurityParameters_EngineId.htm" />
+          <HelpTOCNode Title="EngineTime Property " Url="html/P_Lextm_SharpSnmpLib_SecurityParameters_EngineTime.htm" />
+          <HelpTOCNode Title="IsInvalid Property " Url="html/P_Lextm_SharpSnmpLib_SecurityParameters_IsInvalid.htm" />
+          <HelpTOCNode Title="PrivacyParameters Property " Url="html/P_Lextm_SharpSnmpLib_SecurityParameters_PrivacyParameters.htm" />
+          <HelpTOCNode Title="UserName Property " Url="html/P_Lextm_SharpSnmpLib_SecurityParameters_UserName.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b718cf99-06a1-4ee5-882d-3719a804a5a2" Title="Sequence Class" Url="html/T_Lextm_SharpSnmpLib_Sequence.htm">
+        <HelpTOCNode Id="3e9bdee0-321e-4914-999e-784a565d5372" Title="Sequence Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Sequence__ctor.htm">
+          <HelpTOCNode Title="Sequence Constructor (IEnumerable(ISnmpData))" Url="html/M_Lextm_SharpSnmpLib_Sequence__ctor_1.htm" />
+          <HelpTOCNode Title="Sequence Constructor (Byte[], ISnmpData[])" Url="html/M_Lextm_SharpSnmpLib_Sequence__ctor.htm" />
+          <HelpTOCNode Title="Sequence Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_Sequence__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="786793dc-ae31-4398-b2fe-d4c51878f0f2" Title="Sequence Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Sequence.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_Sequence_AppendBytesTo.htm" />
+          <HelpTOCNode Title="GetEnumerator Method " Url="html/M_Lextm_SharpSnmpLib_Sequence_GetEnumerator.htm" />
+          <HelpTOCNode Title="GetLengthBytes Method " Url="html/M_Lextm_SharpSnmpLib_Sequence_GetLengthBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Sequence_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7a0dbc51-bbd1-4f62-b34e-2a330fca4f0b" Title="Sequence Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Sequence.htm">
+          <HelpTOCNode Title="Item Property " Url="html/P_Lextm_SharpSnmpLib_Sequence_Item.htm" />
+          <HelpTOCNode Title="Length Property " Url="html/P_Lextm_SharpSnmpLib_Sequence_Length.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_Sequence_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c7d246e9-6ee0-47f2-b073-bfbe7d537117" Title="SetRequestPdu Class" Url="html/T_Lextm_SharpSnmpLib_SetRequestPdu.htm">
+        <HelpTOCNode Id="db85851b-ca55-4827-971e-71176f54c8ef" Title="SetRequestPdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_SetRequestPdu__ctor.htm">
+          <HelpTOCNode Title="SetRequestPdu Constructor (Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_SetRequestPdu__ctor_1.htm" />
+          <HelpTOCNode Title="SetRequestPdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_SetRequestPdu__ctor_2.htm" />
+          <HelpTOCNode Title="SetRequestPdu Constructor (Int32, ErrorCode, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_SetRequestPdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c9f94122-a976-4d88-abfd-286fa3adc27e" Title="SetRequestPdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_SetRequestPdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_SetRequestPdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_SetRequestPdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0c183d57-6f45-4d88-9e00-58cbdda0b5d0" Title="SetRequestPdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_SetRequestPdu.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_SetRequestPdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_SetRequestPdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_SetRequestPdu_RequestId.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_SetRequestPdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_SetRequestPdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5cafa0ec-bf69-4d64-a99d-7ebc1ead3162" Title="SnmpDataExtension Class" Url="html/T_Lextm_SharpSnmpLib_SnmpDataExtension.htm">
+        <HelpTOCNode Id="8d825673-966e-4aef-96c3-9cd7486ed646" Title="SnmpDataExtension Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_SnmpDataExtension.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_SnmpDataExtension_ToBytes.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fcb1fffc-d40f-4e3c-9818-0727c7013f13" Title="SnmpException Class" Url="html/T_Lextm_SharpSnmpLib_SnmpException.htm">
+        <HelpTOCNode Id="716750f0-d93b-4dc3-a281-42ec03617813" Title="SnmpException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_SnmpException__ctor.htm">
+          <HelpTOCNode Title="SnmpException Constructor " Url="html/M_Lextm_SharpSnmpLib_SnmpException__ctor.htm" />
+          <HelpTOCNode Title="SnmpException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_SnmpException__ctor_1.htm" />
+          <HelpTOCNode Title="SnmpException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_SnmpException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="4b6abe3c-bacd-44ff-86e8-132f1797a8d4" Title="SnmpException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_SnmpException.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_SnmpException_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7b0d3dc4-af17-4008-8242-f1c40cfca61d" Title="SnmpException Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_SnmpException.htm">
+          <HelpTOCNode Title="Details Property " Url="html/P_Lextm_SharpSnmpLib_SnmpException_Details.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="SnmpType Enumeration" Url="html/T_Lextm_SharpSnmpLib_SnmpType.htm" />
+      <HelpTOCNode Title="StreamExtension Class" Url="html/T_Lextm_SharpSnmpLib_StreamExtension.htm" />
+      <HelpTOCNode Id="8dd35fee-b81b-4937-9a0d-be3845b533e8" Title="TimeTicks Class" Url="html/T_Lextm_SharpSnmpLib_TimeTicks.htm">
+        <HelpTOCNode Id="ac7884fe-618f-49f8-aadf-7a1a1f287d8d" Title="TimeTicks Constructor " Url="html/Overload_Lextm_SharpSnmpLib_TimeTicks__ctor.htm">
+          <HelpTOCNode Title="TimeTicks Constructor (TimeSpan)" Url="html/M_Lextm_SharpSnmpLib_TimeTicks__ctor.htm" />
+          <HelpTOCNode Title="TimeTicks Constructor (UInt32)" Url="html/M_Lextm_SharpSnmpLib_TimeTicks__ctor_2.htm" />
+          <HelpTOCNode Title="TimeTicks Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_TimeTicks__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1eebc32b-66e0-409d-9f42-ae2869ba6492" Title="TimeTicks Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_TimeTicks.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_TimeTicks_AppendBytesTo.htm" />
+          <HelpTOCNode Id="87c547ea-9417-412c-b901-7e1d54fa791f" Title="Equals Method " Url="html/Overload_Lextm_SharpSnmpLib_TimeTicks_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_Lextm_SharpSnmpLib_TimeTicks_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (TimeTicks)" Url="html/M_Lextm_SharpSnmpLib_TimeTicks_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_Lextm_SharpSnmpLib_TimeTicks_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_TimeTicks_ToString.htm" />
+          <HelpTOCNode Title="ToTimeSpan Method " Url="html/M_Lextm_SharpSnmpLib_TimeTicks_ToTimeSpan.htm" />
+          <HelpTOCNode Title="ToUInt32 Method " Url="html/M_Lextm_SharpSnmpLib_TimeTicks_ToUInt32.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e131c257-c3e1-4d1e-ba5c-f11cd1b9e779" Title="TimeTicks Operators" Url="html/Operators_T_Lextm_SharpSnmpLib_TimeTicks.htm">
+          <HelpTOCNode Title="Equality Operator " Url="html/M_Lextm_SharpSnmpLib_TimeTicks_op_Equality.htm" />
+          <HelpTOCNode Title="Inequality Operator " Url="html/M_Lextm_SharpSnmpLib_TimeTicks_op_Inequality.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="52edca1e-a125-4cda-af85-96d44f67c5c1" Title="TimeTicks Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_TimeTicks.htm">
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_TimeTicks_TypeCode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0efb6b22-906b-4a38-942f-5595dd511c8f" Title="TrapV1Pdu Class" Url="html/T_Lextm_SharpSnmpLib_TrapV1Pdu.htm">
+        <HelpTOCNode Id="11687c95-47ec-4164-a9b2-d9cbb0ce38a9" Title="TrapV1Pdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_TrapV1Pdu__ctor.htm">
+          <HelpTOCNode Title="TrapV1Pdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_TrapV1Pdu__ctor_1.htm" />
+          <HelpTOCNode Title="TrapV1Pdu Constructor (UInt32[], IP, Integer32, Integer32, TimeTicks, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_TrapV1Pdu__ctor_2.htm" />
+          <HelpTOCNode Title="TrapV1Pdu Constructor (ObjectIdentifier, IP, Integer32, Integer32, TimeTicks, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_TrapV1Pdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c16bed11-dcec-4600-af7a-9a83c41ed57d" Title="TrapV1Pdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_TrapV1Pdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_TrapV1Pdu_AppendBytesTo.htm" />
+          <HelpTOCNode Id="66b9a693-5d8f-49a6-86bb-0b5b3f2ed2d4" Title="ToString Method " Url="html/Overload_Lextm_SharpSnmpLib_TrapV1Pdu_ToString.htm">
+            <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_TrapV1Pdu_ToString.htm" />
+            <HelpTOCNode Title="ToString Method (IObjectRegistry)" Url="html/M_Lextm_SharpSnmpLib_TrapV1Pdu_ToString_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="d775eb12-48ee-4c9f-aa71-3477eae9da85" Title="TrapV1Pdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_TrapV1Pdu.htm">
+          <HelpTOCNode Title="AgentAddress Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_AgentAddress.htm" />
+          <HelpTOCNode Title="Enterprise Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_Enterprise.htm" />
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="Generic Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_Generic.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_RequestId.htm" />
+          <HelpTOCNode Title="Specific Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_Specific.htm" />
+          <HelpTOCNode Title="TimeStamp Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_TimeStamp.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_TrapV1Pdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="69be75eb-fde6-4c9e-863c-4106129879c5" Title="TrapV2Pdu Class" Url="html/T_Lextm_SharpSnmpLib_TrapV2Pdu.htm">
+        <HelpTOCNode Id="9f7c954b-f87e-47b9-9789-6494d0f639b6" Title="TrapV2Pdu Constructor " Url="html/Overload_Lextm_SharpSnmpLib_TrapV2Pdu__ctor.htm">
+          <HelpTOCNode Title="TrapV2Pdu Constructor (Tuple(Int32, Byte[]), Stream)" Url="html/M_Lextm_SharpSnmpLib_TrapV2Pdu__ctor_1.htm" />
+          <HelpTOCNode Title="TrapV2Pdu Constructor (Int32, ObjectIdentifier, UInt32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_TrapV2Pdu__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b83e04c0-9f04-4856-a35d-9edc263d7ad0" Title="TrapV2Pdu Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_TrapV2Pdu.htm">
+          <HelpTOCNode Title="AppendBytesTo Method " Url="html/M_Lextm_SharpSnmpLib_TrapV2Pdu_AppendBytesTo.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_TrapV2Pdu_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1704cab9-cd1b-4c0d-aeb0-1241e8022902" Title="TrapV2Pdu Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_TrapV2Pdu.htm">
+          <HelpTOCNode Title="Enterprise Property " Url="html/P_Lextm_SharpSnmpLib_TrapV2Pdu_Enterprise.htm" />
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_TrapV2Pdu_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_TrapV2Pdu_ErrorStatus.htm" />
+          <HelpTOCNode Title="RequestId Property " Url="html/P_Lextm_SharpSnmpLib_TrapV2Pdu_RequestId.htm" />
+          <HelpTOCNode Title="TimeStamp Property " Url="html/P_Lextm_SharpSnmpLib_TrapV2Pdu_TimeStamp.htm" />
+          <HelpTOCNode Title="TypeCode Property " Url="html/P_Lextm_SharpSnmpLib_TrapV2Pdu_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Property " Url="html/P_Lextm_SharpSnmpLib_TrapV2Pdu_Variables.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="052e10ac-4b02-4708-89b6-ae196824e4e9" Title="Variable Class" Url="html/T_Lextm_SharpSnmpLib_Variable.htm">
+        <HelpTOCNode Id="c76585e7-3407-4a9a-b44d-8c70b796c45b" Title="Variable Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Variable__ctor.htm">
+          <HelpTOCNode Title="Variable Constructor (UInt32[])" Url="html/M_Lextm_SharpSnmpLib_Variable__ctor_2.htm" />
+          <HelpTOCNode Title="Variable Constructor (ObjectIdentifier)" Url="html/M_Lextm_SharpSnmpLib_Variable__ctor.htm" />
+          <HelpTOCNode Title="Variable Constructor (UInt32[], ISnmpData)" Url="html/M_Lextm_SharpSnmpLib_Variable__ctor_3.htm" />
+          <HelpTOCNode Title="Variable Constructor (ObjectIdentifier, ISnmpData)" Url="html/M_Lextm_SharpSnmpLib_Variable__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9803a2a1-0766-403f-9dbe-1a4a04706ac3" Title="Variable Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Variable.htm">
+          <HelpTOCNode Id="191deee9-66cb-46e5-a924-57ebc4bc0815" Title="ToString Method " Url="html/Overload_Lextm_SharpSnmpLib_Variable_ToString.htm">
+            <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Variable_ToString.htm" />
+            <HelpTOCNode Title="ToString Method (IObjectRegistry)" Url="html/M_Lextm_SharpSnmpLib_Variable_ToString_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="fcab932b-1027-450f-bd59-452be4bf78ab" Title="Variable Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Variable.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Variable_Data.htm" />
+          <HelpTOCNode Title="Id Property " Url="html/P_Lextm_SharpSnmpLib_Variable_Id.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="VersionCode Enumeration" Url="html/T_Lextm_SharpSnmpLib_VersionCode.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ec7832c6-6b2d-4c81-9442-b1e880a69f20" Title="Lextm.SharpSnmpLib.Messaging" Url="html/N_Lextm_SharpSnmpLib_Messaging.htm">
+      <HelpTOCNode Id="530fa666-8aab-4590-8d65-c822d7ef2b8e" Title="AgentFoundEventArgs Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_AgentFoundEventArgs.htm">
+        <HelpTOCNode Title="AgentFoundEventArgs Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_AgentFoundEventArgs__ctor.htm" />
+        <HelpTOCNode Id="2328e508-65a6-40b9-accf-276598780948" Title="AgentFoundEventArgs Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_AgentFoundEventArgs.htm">
+          <HelpTOCNode Title="Agent Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_AgentFoundEventArgs_Agent.htm" />
+          <HelpTOCNode Title="Variable Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_AgentFoundEventArgs_Variable.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b5bd3fe7-6774-4351-9e56-cd7de0927a4d" Title="Discoverer Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_Discoverer.htm">
+        <HelpTOCNode Title="Discoverer Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_Discoverer__ctor.htm" />
+        <HelpTOCNode Id="1e8bed1d-d9b8-4f70-bb93-4aa58e5a3a31" Title="Discoverer Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_Discoverer.htm">
+          <HelpTOCNode Title="Discover Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Discoverer_Discover.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b90e7d32-d394-4ddd-9da1-e320fb3e7242" Title="Discoverer Events" Url="html/Events_T_Lextm_SharpSnmpLib_Messaging_Discoverer.htm">
+          <HelpTOCNode Title="AgentFound Event" Url="html/E_Lextm_SharpSnmpLib_Messaging_Discoverer_AgentFound.htm" />
+          <HelpTOCNode Title="ExceptionRaised Event" Url="html/E_Lextm_SharpSnmpLib_Messaging_Discoverer_ExceptionRaised.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="99e690e3-3d7c-4450-8fb1-b7e0a2fef0de" Title="Discovery Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_Discovery.htm">
+        <HelpTOCNode Id="7bb93b02-0acd-435c-9ba4-68bbe2610ec7" Title="Discovery Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_Discovery__ctor.htm">
+          <HelpTOCNode Title="Discovery Constructor (Int32, Int32, Int32)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Discovery__ctor.htm" />
+          <HelpTOCNode Title="Discovery Constructor (Int32, Int32, Int32, SnmpType)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Discovery__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="41e8fc61-44f7-4945-abe1-c1d8a4ae1930" Title="Discovery Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_Discovery.htm">
+          <HelpTOCNode Title="GetResponse Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Discovery_GetResponse.htm" />
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Discovery_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Discovery_ToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4fc539d9-bba4-4ba2-ab66-4050d2215dc1" Title="EndPointExtension Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_EndPointExtension.htm">
+        <HelpTOCNode Id="dc54ea69-bf4e-4445-9800-82065d0f754f" Title="EndPointExtension Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_EndPointExtension.htm">
+          <HelpTOCNode Title="GetSocket Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_EndPointExtension_GetSocket.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5bcdf6b2-6a4e-4376-9a79-7f4d63636b30" Title="ErrorException Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_ErrorException.htm">
+        <HelpTOCNode Id="08f881f6-74ec-499f-b967-eef7c50a9e66" Title="ErrorException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_ErrorException__ctor.htm">
+          <HelpTOCNode Title="ErrorException Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_ErrorException__ctor.htm" />
+          <HelpTOCNode Title="ErrorException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_Messaging_ErrorException__ctor_1.htm" />
+          <HelpTOCNode Title="ErrorException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_Messaging_ErrorException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="2842a299-8644-4667-9b20-5d6b7ff7a451" Title="ErrorException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_ErrorException.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ErrorException_Create.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="80e98287-93ff-4539-af9e-7f55a6499c9f" Title="ErrorException Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_ErrorException.htm">
+          <HelpTOCNode Title="Body Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ErrorException_Body.htm" />
+          <HelpTOCNode Title="Details Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ErrorException_Details.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="e15e22e9-89e0-474a-8ff7-93098ff536fb" Title="ExceptionRaisedEventArgs Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_ExceptionRaisedEventArgs.htm">
+        <HelpTOCNode Title="ExceptionRaisedEventArgs Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_ExceptionRaisedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="b62b4bfb-b993-4ee2-8045-43b0054fc822" Title="ExceptionRaisedEventArgs Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_ExceptionRaisedEventArgs.htm">
+          <HelpTOCNode Title="Exception Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ExceptionRaisedEventArgs_Exception.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="88a873f0-9c7a-4f10-ae79-5e16196ed56c" Title="GetBulkRequestMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage.htm">
+        <HelpTOCNode Id="e2625761-4c82-4870-9839-f658e2ccab11" Title="GetBulkRequestMessage Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage__ctor.htm">
+          <HelpTOCNode Title="GetBulkRequestMessage Constructor (Int32, VersionCode, OctetString, Int32, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage__ctor_2.htm" />
+          <HelpTOCNode Title="GetBulkRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, Int32, Int32, IList(Variable), IPrivacyProvider, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage__ctor.htm" />
+          <HelpTOCNode Title="GetBulkRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, Int32, Int32, IList(Variable), IPrivacyProvider, Int32, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="63a5e250-6638-46d7-97a1-6c32d9291dec" Title="GetBulkRequestMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c1f2f880-3d76-4bba-b189-c3ca73982d74" Title="GetBulkRequestMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage.htm">
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetBulkRequestMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="541540ec-cdbd-4c2d-90a7-f2783e3158e9" Title="GetNextRequestMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage.htm">
+        <HelpTOCNode Id="6a03ad1b-0cb2-4574-9dd3-fc8f907d229f" Title="GetNextRequestMessage Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage__ctor.htm">
+          <HelpTOCNode Title="GetNextRequestMessage Constructor (Int32, VersionCode, OctetString, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage__ctor_2.htm" />
+          <HelpTOCNode Title="GetNextRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, IList(Variable), IPrivacyProvider, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage__ctor.htm" />
+          <HelpTOCNode Title="GetNextRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, IList(Variable), IPrivacyProvider, Int32, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="88a83502-830e-4b16-969c-7a730c4c2595" Title="GetNextRequestMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d15ec4e2-9273-4736-a770-f6d135d2aefe" Title="GetNextRequestMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage.htm">
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetNextRequestMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="40eee8fd-d765-4ef9-91b5-f0e91f7d88bb" Title="GetRequestMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_GetRequestMessage.htm">
+        <HelpTOCNode Id="569fdd46-5621-4b6c-87e2-a9260de8d948" Title="GetRequestMessage Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_GetRequestMessage__ctor.htm">
+          <HelpTOCNode Title="GetRequestMessage Constructor (Int32, VersionCode, OctetString, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetRequestMessage__ctor_2.htm" />
+          <HelpTOCNode Title="GetRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, IList(Variable), IPrivacyProvider, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetRequestMessage__ctor.htm" />
+          <HelpTOCNode Title="GetRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, IList(Variable), IPrivacyProvider, Int32, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_GetRequestMessage__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="88624954-5b76-4ba0-8277-6b0a0e4c35b8" Title="GetRequestMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_GetRequestMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_GetRequestMessage_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_GetRequestMessage_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a657bd88-6840-446a-8068-538f49cddb86" Title="GetRequestMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_GetRequestMessage.htm">
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetRequestMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetRequestMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetRequestMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetRequestMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_GetRequestMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a4e2715c-cb2d-4a25-9880-1956585ef6c9" Title="IListenerBinding Interface" Url="html/T_Lextm_SharpSnmpLib_Messaging_IListenerBinding.htm">
+        <HelpTOCNode Id="cdd58140-ce66-44b1-b84d-ed3a9e769154" Title="IListenerBinding Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_IListenerBinding.htm">
+          <HelpTOCNode Title="SendResponse Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_IListenerBinding_SendResponse.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="19bb0937-07f5-4d64-ba30-30f927934f5a" Title="IListenerBinding Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_IListenerBinding.htm">
+          <HelpTOCNode Title="Endpoint Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_IListenerBinding_Endpoint.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="86b91f1a-a3dd-4dfd-bdd8-adcdcf827f09" Title="InformRequestMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_InformRequestMessage.htm">
+        <HelpTOCNode Id="ddbc26cd-081c-4303-9e1e-c71f7ac748d6" Title="InformRequestMessage Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_InformRequestMessage__ctor.htm">
+          <HelpTOCNode Title="InformRequestMessage Constructor (Int32, VersionCode, OctetString, ObjectIdentifier, UInt32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_InformRequestMessage__ctor_2.htm" />
+          <HelpTOCNode Title="InformRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, ObjectIdentifier, UInt32, IList(Variable), IPrivacyProvider, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_InformRequestMessage__ctor.htm" />
+          <HelpTOCNode Title="InformRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, ObjectIdentifier, UInt32, IList(Variable), IPrivacyProvider, Int32, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_InformRequestMessage__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="926ba7ba-aa74-42fa-8e02-d41f5d04f012" Title="InformRequestMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_InformRequestMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_ToBytes.htm" />
+          <HelpTOCNode Id="e51a2539-510c-42c6-9592-ae8fee7b758f" Title="ToString Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_ToString.htm">
+            <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_ToString.htm" />
+            <HelpTOCNode Title="ToString Method (IObjectRegistry)" Url="html/M_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_ToString_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="1756382b-d1c8-4812-bb71-87c57972b92d" Title="InformRequestMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_InformRequestMessage.htm">
+          <HelpTOCNode Title="Enterprise Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_Enterprise.htm" />
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_Scope.htm" />
+          <HelpTOCNode Title="TimeStamp Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_TimeStamp.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_InformRequestMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c50226a2-7273-4e60-8051-faeb7c1d2ea9" Title="ISnmpMessage Interface" Url="html/T_Lextm_SharpSnmpLib_Messaging_ISnmpMessage.htm">
+        <HelpTOCNode Id="31031ea3-630b-4cb2-a503-52c9904126aa" Title="ISnmpMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_ISnmpMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_ToBytes.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5ded46bd-39c0-421f-8295-661b33d06370" Title="ISnmpMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_ISnmpMessage.htm">
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b0bff3a4-b537-40ef-9bd6-82f0f877846c" Title="Listener Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_Listener.htm">
+        <HelpTOCNode Title="Listener Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener__ctor.htm" />
+        <HelpTOCNode Id="d77a2019-9c9a-42be-83e4-663a91764308" Title="Listener Fields" Url="html/Fields_T_Lextm_SharpSnmpLib_Messaging_Listener.htm">
+          <HelpTOCNode Title="ErrorIPv4NotSupported Field" Url="html/F_Lextm_SharpSnmpLib_Messaging_Listener_ErrorIPv4NotSupported.htm" />
+          <HelpTOCNode Title="ErrorIPv6NotSupported Field" Url="html/F_Lextm_SharpSnmpLib_Messaging_Listener_ErrorIPv6NotSupported.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="509176b2-1772-4d34-842e-0a2ae58e408c" Title="Listener Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_Listener.htm">
+          <HelpTOCNode Title="AddBinding Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener_AddBinding.htm" />
+          <HelpTOCNode Title="ClearBindings Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener_ClearBindings.htm" />
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener_Dispose.htm" />
+          <HelpTOCNode Title="Finalize Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener_Finalize.htm" />
+          <HelpTOCNode Title="RemoveBinding Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener_RemoveBinding.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Listener_Stop.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="6520cd30-2b41-455a-80a9-a68e505aa33b" Title="Listener Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_Listener.htm">
+          <HelpTOCNode Title="Active Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Listener_Active.htm" />
+          <HelpTOCNode Title="Users Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Listener_Users.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9b873b1b-4cc1-4592-98d4-4035eb81f75a" Title="Listener Events" Url="html/Events_T_Lextm_SharpSnmpLib_Messaging_Listener.htm">
+          <HelpTOCNode Title="ExceptionRaised Event" Url="html/E_Lextm_SharpSnmpLib_Messaging_Listener_ExceptionRaised.htm" />
+          <HelpTOCNode Title="MessageReceived Event" Url="html/E_Lextm_SharpSnmpLib_Messaging_Listener_MessageReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="72960fa0-3c98-4f7d-b16a-2bd7ebd869cd" Title="ListenerBinding Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_ListenerBinding.htm">
+        <HelpTOCNode Title="ListenerBinding Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_ListenerBinding__ctor.htm" />
+        <HelpTOCNode Id="1ccd2b37-0419-4c93-a7c2-2185e77eca1f" Title="ListenerBinding Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_ListenerBinding.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ListenerBinding_Dispose.htm" />
+          <HelpTOCNode Title="Finalize Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ListenerBinding_Finalize.htm" />
+          <HelpTOCNode Title="SendResponse Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ListenerBinding_SendResponse.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ListenerBinding_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ListenerBinding_Stop.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ListenerBinding_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e4174c07-c35a-4c57-aa6b-699e6e990304" Title="ListenerBinding Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_ListenerBinding.htm">
+          <HelpTOCNode Title="Endpoint Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ListenerBinding_Endpoint.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b708e04f-41cf-4772-9247-fd11e37ac4f3" Title="ListenerBinding Events" Url="html/Events_T_Lextm_SharpSnmpLib_Messaging_ListenerBinding.htm">
+          <HelpTOCNode Title="ExceptionRaised Event" Url="html/E_Lextm_SharpSnmpLib_Messaging_ListenerBinding_ExceptionRaised.htm" />
+          <HelpTOCNode Title="MessageReceived Event" Url="html/E_Lextm_SharpSnmpLib_Messaging_ListenerBinding_MessageReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="728cfa88-dc83-46bd-8cc9-62b95e7e57e4" Title="MalformedMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_MalformedMessage.htm">
+        <HelpTOCNode Id="4c07a45c-f724-443e-95bb-3fc895153d4c" Title="MalformedMessage Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_MalformedMessage__ctor.htm">
+          <HelpTOCNode Title="MalformedMessage Constructor (Int32, OctetString)" Url="html/M_Lextm_SharpSnmpLib_Messaging_MalformedMessage__ctor.htm" />
+          <HelpTOCNode Title="MalformedMessage Constructor (Int32, OctetString, ISnmpData)" Url="html/M_Lextm_SharpSnmpLib_Messaging_MalformedMessage__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5abe2b86-233b-4e6e-a0cd-34a7a500bfea" Title="MalformedMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_MalformedMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_MalformedMessage_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_MalformedMessage_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="edea820f-f0ef-413a-a8a1-209942061135" Title="MalformedMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_MalformedMessage.htm">
+          <HelpTOCNode Title="EncryptedScope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MalformedMessage_EncryptedScope.htm" />
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MalformedMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MalformedMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MalformedMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MalformedMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MalformedMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4fbcbdf9-30b7-4fc3-ac68-bad12ba639d2" Title="Manager Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_Manager.htm">
+        <HelpTOCNode Title="Manager Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager__ctor.htm" />
+        <HelpTOCNode Id="d79b3622-beb7-4cad-8237-4a24635b4a81" Title="Manager Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_Manager.htm">
+          <HelpTOCNode Id="2b8be239-a0f4-4202-a8e1-dbf28fe9956d" Title="Get Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_Manager_Get.htm">
+            <HelpTOCNode Title="Get Method (IPAddress, String, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_Get.htm" />
+            <HelpTOCNode Title="Get Method (IPEndPoint, String, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_Get_1.htm" />
+            <HelpTOCNode Title="Get Method (String, String, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_Get_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="1acd697c-eaae-47dc-8765-d5f1792e0d55" Title="GetSingle Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_Manager_GetSingle.htm">
+            <HelpTOCNode Title="GetSingle Method (IPAddress, String, Variable)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_GetSingle.htm" />
+            <HelpTOCNode Title="GetSingle Method (IPEndPoint, String, Variable)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_GetSingle_1.htm" />
+            <HelpTOCNode Title="GetSingle Method (String, String, Variable)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_GetSingle_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="85f947f1-71bc-48e7-89c1-d65d31c3d1ef" Title="GetTable Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_Manager_GetTable.htm">
+            <HelpTOCNode Title="GetTable Method (IPAddress, String, ObjectIdentifier)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_GetTable.htm" />
+            <HelpTOCNode Title="GetTable Method (IPEndPoint, String, ObjectIdentifier)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_GetTable_1.htm" />
+            <HelpTOCNode Title="GetTable Method (String, String, ObjectIdentifier)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_GetTable_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="ef00a5bf-ec54-4538-88ec-370f8b0ecfa5" Title="Set Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_Manager_Set.htm">
+            <HelpTOCNode Title="Set Method (IPAddress, String, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_Set.htm" />
+            <HelpTOCNode Title="Set Method (IPEndPoint, String, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_Set_1.htm" />
+            <HelpTOCNode Title="Set Method (String, String, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_Set_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="93385821-a215-41a0-ae71-7016135d6943" Title="SetSingle Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_Manager_SetSingle.htm">
+            <HelpTOCNode Title="SetSingle Method (IPAddress, String, Variable)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_SetSingle.htm" />
+            <HelpTOCNode Title="SetSingle Method (IPEndPoint, String, Variable)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_SetSingle_1.htm" />
+            <HelpTOCNode Title="SetSingle Method (String, String, Variable)" Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_SetSingle_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Manager_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="beebb6e3-4102-4870-949e-012f811c220f" Title="Manager Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_Manager.htm">
+          <HelpTOCNode Title="DefaultVersion Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Manager_DefaultVersion.htm" />
+          <HelpTOCNode Title="MaxRepetitions Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Manager_MaxRepetitions.htm" />
+          <HelpTOCNode Title="Objects Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Manager_Objects.htm" />
+          <HelpTOCNode Title="Timeout Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Manager_Timeout.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="444a2aa5-e77c-4f85-8adb-061edd1bbb3a" Title="MessageFactory Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_MessageFactory.htm">
+        <HelpTOCNode Id="ca465059-87ca-49f9-86c8-571eab4c53c2" Title="MessageFactory Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_MessageFactory.htm">
+          <HelpTOCNode Id="e0fdcc3a-ba8c-4567-918b-594414c5a873" Title="ParseMessages Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_MessageFactory_ParseMessages.htm">
+            <HelpTOCNode Title="ParseMessages Method (Byte[], UserRegistry)" Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactory_ParseMessages.htm" />
+            <HelpTOCNode Title="ParseMessages Method (IEnumerable(Char), UserRegistry)" Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactory_ParseMessages_2.htm" />
+            <HelpTOCNode Title="ParseMessages Method (Byte[], Int32, Int32, UserRegistry)" Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactory_ParseMessages_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a009eb4b-cbfc-4a3f-91aa-a87fd2d0bae8" Title="MessageFactoryException Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_MessageFactoryException.htm">
+        <HelpTOCNode Id="2bb4dc39-9008-43b2-ba33-a6784bd369f6" Title="MessageFactoryException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_MessageFactoryException__ctor.htm">
+          <HelpTOCNode Title="MessageFactoryException Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactoryException__ctor.htm" />
+          <HelpTOCNode Title="MessageFactoryException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactoryException__ctor_1.htm" />
+          <HelpTOCNode Title="MessageFactoryException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactoryException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ec715198-a79f-468e-862c-2887fd7a4e0a" Title="MessageFactoryException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_MessageFactoryException.htm">
+          <HelpTOCNode Title="GetBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactoryException_GetBytes.htm" />
+          <HelpTOCNode Title="SetBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactoryException_SetBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageFactoryException_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="MessageFactoryException Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_MessageFactoryException.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9b3a5494-8846-4a58-b454-79b2fe15517b" Title="MessageReceivedEventArgs Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs.htm">
+        <HelpTOCNode Title="MessageReceivedEventArgs Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="8cc96cb8-70ff-413a-b642-c40c68bb34c4" Title="MessageReceivedEventArgs Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ee549497-4b01-430d-819c-84c6602b7ac3" Title="MessageReceivedEventArgs Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs.htm">
+          <HelpTOCNode Title="Binding Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs_Binding.htm" />
+          <HelpTOCNode Title="Message Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs_Message.htm" />
+          <HelpTOCNode Title="Sender Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_MessageReceivedEventArgs_Sender.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="19005b7a-173b-4868-aeab-90fa439fe348" Title="Messenger Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_Messenger.htm">
+        <HelpTOCNode Id="459ef594-cfbd-4e6d-9549-f8644ccfba94" Title="Messenger Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_Messenger.htm">
+          <HelpTOCNode Title="BulkWalk Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_BulkWalk.htm" />
+          <HelpTOCNode Title="Get Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_Get.htm" />
+          <HelpTOCNode Title="GetErrorMessage Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_GetErrorMessage.htm" />
+          <HelpTOCNode Title="GetNextDiscovery Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_GetNextDiscovery.htm" />
+          <HelpTOCNode Title="GetTable Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_GetTable.htm" />
+          <HelpTOCNode Title="SendInform Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_SendInform.htm" />
+          <HelpTOCNode Title="SendTrapV1 Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_SendTrapV1.htm" />
+          <HelpTOCNode Title="SendTrapV2 Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_SendTrapV2.htm" />
+          <HelpTOCNode Title="Set Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_Set.htm" />
+          <HelpTOCNode Title="Walk Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_Messenger_Walk.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="5cdf2300-dc0f-4033-ad36-354250569327" Title="Messenger Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_Messenger.htm">
+          <HelpTOCNode Title="AuthenticationFailure Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_AuthenticationFailure.htm" />
+          <HelpTOCNode Title="DecryptionError Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_DecryptionError.htm" />
+          <HelpTOCNode Title="MaxMessageSize Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_MaxMessageSize.htm" />
+          <HelpTOCNode Title="NextDiscovery Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_NextDiscovery.htm" />
+          <HelpTOCNode Title="NextMessageId Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_NextMessageId.htm" />
+          <HelpTOCNode Title="NextRequestId Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_NextRequestId.htm" />
+          <HelpTOCNode Title="NotInTimeWindow Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_NotInTimeWindow.htm" />
+          <HelpTOCNode Title="UnknownEngineId Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_UnknownEngineId.htm" />
+          <HelpTOCNode Title="UnknownSecurityName Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_UnknownSecurityName.htm" />
+          <HelpTOCNode Title="UnsupportedSecurityLevel Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_Messenger_UnsupportedSecurityLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="41201332-4079-4b08-9d8b-02ce3b091277" Title="NumberGenerator Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_NumberGenerator.htm">
+        <HelpTOCNode Title="NumberGenerator Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_NumberGenerator__ctor.htm" />
+        <HelpTOCNode Id="6b42907a-5be0-4fd4-9104-b61f7d8bd32c" Title="NumberGenerator Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_NumberGenerator.htm">
+          <HelpTOCNode Title="NextId Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_NumberGenerator_NextId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f6037fe-542a-4aa7-b785-e8cb861b99d4" Title="PortInUseException Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_PortInUseException.htm">
+        <HelpTOCNode Id="14027bc8-8548-4b55-940e-cab7c3a329f4" Title="PortInUseException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_PortInUseException__ctor.htm">
+          <HelpTOCNode Title="PortInUseException Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_PortInUseException__ctor.htm" />
+          <HelpTOCNode Title="PortInUseException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_Messaging_PortInUseException__ctor_1.htm" />
+          <HelpTOCNode Title="PortInUseException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_Messaging_PortInUseException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f499c56f-b8ea-4777-a83c-7c2c5343ad20" Title="PortInUseException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_PortInUseException.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_PortInUseException_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="58a790da-6fcf-43f6-8465-9eb80c287eee" Title="PortInUseException Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_PortInUseException.htm">
+          <HelpTOCNode Title="Endpoint Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_PortInUseException_Endpoint.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="dd0b9ee5-4342-4ae1-8350-24652266432d" Title="ReportMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_ReportMessage.htm">
+        <HelpTOCNode Title="ReportMessage Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_ReportMessage__ctor.htm" />
+        <HelpTOCNode Id="829a0319-d7a3-45f4-bec2-edcab23466c0" Title="ReportMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_ReportMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ReportMessage_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ReportMessage_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8215a86c-27de-4377-a557-54052418a16e" Title="ReportMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_ReportMessage.htm">
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ReportMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ReportMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ReportMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ReportMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ReportMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5ca4e04d-02dd-494c-9d27-840ce5289d9a" Title="ResponseMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_ResponseMessage.htm">
+        <HelpTOCNode Id="c381240a-1aa5-4011-83df-f4d574ae572b" Title="ResponseMessage Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_ResponseMessage__ctor.htm">
+          <HelpTOCNode Title="ResponseMessage Constructor (Int32, VersionCode, OctetString, ErrorCode, Int32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_ResponseMessage__ctor_1.htm" />
+          <HelpTOCNode Title="ResponseMessage Constructor (VersionCode, Header, SecurityParameters, Scope, IPrivacyProvider, Boolean, Byte[])" Url="html/M_Lextm_SharpSnmpLib_Messaging_ResponseMessage__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="72a16cee-0913-484d-ad26-7ffdb7dc4e07" Title="ResponseMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_ResponseMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ResponseMessage_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_ResponseMessage_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d5d1338c-8a18-42be-b23a-830061072d96" Title="ResponseMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_ResponseMessage.htm">
+          <HelpTOCNode Title="ErrorIndex Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ResponseMessage_ErrorIndex.htm" />
+          <HelpTOCNode Title="ErrorStatus Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ResponseMessage_ErrorStatus.htm" />
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ResponseMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ResponseMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ResponseMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ResponseMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_ResponseMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b5bc8189-b08d-4642-a76f-f2443651b067" Title="SetRequestMessage Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_SetRequestMessage.htm">
+        <HelpTOCNode Id="fd7152f4-a5b3-4f61-abcd-c13d42c643a1" Title="SetRequestMessage Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_SetRequestMessage__ctor.htm">
+          <HelpTOCNode Title="SetRequestMessage Constructor (Int32, VersionCode, OctetString, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_SetRequestMessage__ctor_2.htm" />
+          <HelpTOCNode Title="SetRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, IList(Variable), IPrivacyProvider, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SetRequestMessage__ctor.htm" />
+          <HelpTOCNode Title="SetRequestMessage Constructor (VersionCode, Int32, Int32, OctetString, IList(Variable), IPrivacyProvider, Int32, ISnmpMessage)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SetRequestMessage__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b59be6a2-fdfe-4c63-8756-9bfc0ee0597b" Title="SetRequestMessage Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_SetRequestMessage.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_ToBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ec9414e0-94eb-4deb-807c-82cd76ac42f7" Title="SetRequestMessage Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_SetRequestMessage.htm">
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Scope.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_SetRequestMessage_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1b29fcc8-1eb9-48ee-8f41-c3654614a2ba" Title="SnmpMessageExtension Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension.htm">
+        <HelpTOCNode Id="91d25726-1719-4fa1-92ef-3dd6ec9c7275" Title="SnmpMessageExtension Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension.htm">
+          <HelpTOCNode Title="BeginGetResponse Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_BeginGetResponse.htm" />
+          <HelpTOCNode Title="Community Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Community.htm" />
+          <HelpTOCNode Title="EndGetResponse Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_EndGetResponse.htm" />
+          <HelpTOCNode Id="10f3f822-40a0-4ee8-a5d3-9cb45d330501" Title="GetResponse Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse.htm">
+            <HelpTOCNode Title="GetResponse Method (ISnmpMessage, Int32, IPEndPoint)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse.htm" />
+            <HelpTOCNode Title="GetResponse Method (ISnmpMessage, Int32, IPEndPoint, UserRegistry)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse_1.htm" />
+            <HelpTOCNode Title="GetResponse Method (ISnmpMessage, Int32, IPEndPoint, Socket)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse_3.htm" />
+            <HelpTOCNode Title="GetResponse Method (ISnmpMessage, Int32, IPEndPoint, UserRegistry, Socket)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="MessageId Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_MessageId.htm" />
+          <HelpTOCNode Title="Pdu Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Pdu.htm" />
+          <HelpTOCNode Title="RequestId Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_RequestId.htm" />
+          <HelpTOCNode Id="d0f726f7-81e7-4a05-bb6f-d03f8aae3c95" Title="Send Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Send.htm">
+            <HelpTOCNode Title="Send Method (ISnmpMessage, EndPoint)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Send.htm" />
+            <HelpTOCNode Title="Send Method (ISnmpMessage, EndPoint, Socket)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Send_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="29ffe607-5adc-43d8-8393-546fcc32623b" Title="SendAsync Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_SendAsync.htm">
+            <HelpTOCNode Title="SendAsync Method (ISnmpMessage, EndPoint)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_SendAsync.htm" />
+            <HelpTOCNode Title="SendAsync Method (ISnmpMessage, EndPoint, Socket)" Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_SendAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="TypeCode Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_TypeCode.htm" />
+          <HelpTOCNode Title="Variables Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Variables.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9745e724-4236-4d64-a979-2bd0bfb526d8" Title="SnmpMessageExtension Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension.htm">
+          <HelpTOCNode Title="IsRunningOnMono Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_IsRunningOnMono.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2a41784a-6d3b-4bd0-a427-0e676496c5d7" Title="TimeoutException Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_TimeoutException.htm">
+        <HelpTOCNode Id="79d4b071-7ee9-4f78-9de5-3510722a5f3c" Title="TimeoutException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_TimeoutException__ctor.htm">
+          <HelpTOCNode Title="TimeoutException Constructor " Url="html/M_Lextm_SharpSnmpLib_Messaging_TimeoutException__ctor.htm" />
+          <HelpTOCNode Title="TimeoutException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_Messaging_TimeoutException__ctor_1.htm" />
+          <HelpTOCNode Title="TimeoutException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_Messaging_TimeoutException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="262223e4-3137-45ac-b3aa-a8796998fa69" Title="TimeoutException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_TimeoutException.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_TimeoutException_Create.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_TimeoutException_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="413ab1c6-bf76-470b-a9f8-2908307143e6" Title="TimeoutException Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_TimeoutException.htm">
+          <HelpTOCNode Title="Timeout Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TimeoutException_Timeout.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6bfb1695-7c28-4fa3-bac7-ca56240bdb54" Title="TrapV1Message Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_TrapV1Message.htm">
+        <HelpTOCNode Id="08af5e23-43e2-4f31-ade9-10c72d68e76f" Title="TrapV1Message Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_TrapV1Message__ctor.htm">
+          <HelpTOCNode Title="TrapV1Message Constructor (Sequence)" Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV1Message__ctor.htm" />
+          <HelpTOCNode Title="TrapV1Message Constructor (VersionCode, IPAddress, OctetString, ObjectIdentifier, GenericCode, Int32, UInt32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV1Message__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="322c5313-ebbc-4250-bbdd-76d3e9bebce5" Title="TrapV1Message Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_TrapV1Message.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToBytes.htm" />
+          <HelpTOCNode Id="d0a36451-69bb-4678-a30a-905cee91ca47" Title="ToString Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToString.htm">
+            <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToString.htm" />
+            <HelpTOCNode Title="ToString Method (IObjectRegistry)" Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToString_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="235f7184-512b-4f01-8163-688f4ae8ea17" Title="TrapV1Message Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_TrapV1Message.htm">
+          <HelpTOCNode Title="AgentAddress Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_AgentAddress.htm" />
+          <HelpTOCNode Title="Community Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Community.htm" />
+          <HelpTOCNode Title="Enterprise Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Enterprise.htm" />
+          <HelpTOCNode Title="Generic Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Generic.htm" />
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Scope.htm" />
+          <HelpTOCNode Title="Specific Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Specific.htm" />
+          <HelpTOCNode Title="TimeStamp Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_TimeStamp.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV1Message_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="70284ea6-deb8-4915-98d5-2ab708f199cd" Title="TrapV2Message Class" Url="html/T_Lextm_SharpSnmpLib_Messaging_TrapV2Message.htm">
+        <HelpTOCNode Id="36e3ddf1-715f-4275-81e6-47b06479401e" Title="TrapV2Message Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_TrapV2Message__ctor.htm">
+          <HelpTOCNode Title="TrapV2Message Constructor (Int32, VersionCode, OctetString, ObjectIdentifier, UInt32, IList(Variable))" Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV2Message__ctor_1.htm" />
+          <HelpTOCNode Title="TrapV2Message Constructor (VersionCode, Int32, Int32, OctetString, ObjectIdentifier, UInt32, IList(Variable), IPrivacyProvider, Int32, OctetString, Int32, Int32)" Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV2Message__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0f0d8e61-23ca-4fc6-96ef-d43b5325affe" Title="TrapV2Message Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Messaging_TrapV2Message.htm">
+          <HelpTOCNode Title="ToBytes Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV2Message_ToBytes.htm" />
+          <HelpTOCNode Id="cdfe4423-2a25-446c-b850-26cb6a3b13e6" Title="ToString Method " Url="html/Overload_Lextm_SharpSnmpLib_Messaging_TrapV2Message_ToString.htm">
+            <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV2Message_ToString.htm" />
+            <HelpTOCNode Title="ToString Method (IObjectRegistry)" Url="html/M_Lextm_SharpSnmpLib_Messaging_TrapV2Message_ToString_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="6cc32d1d-a65e-49b8-a1af-ca3e70ff2d28" Title="TrapV2Message Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Messaging_TrapV2Message.htm">
+          <HelpTOCNode Title="Enterprise Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV2Message_Enterprise.htm" />
+          <HelpTOCNode Title="Header Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV2Message_Header.htm" />
+          <HelpTOCNode Title="Parameters Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV2Message_Parameters.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV2Message_Privacy.htm" />
+          <HelpTOCNode Title="Scope Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV2Message_Scope.htm" />
+          <HelpTOCNode Title="TimeStamp Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV2Message_TimeStamp.htm" />
+          <HelpTOCNode Title="Version Property " Url="html/P_Lextm_SharpSnmpLib_Messaging_TrapV2Message_Version.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="WalkMode Enumeration" Url="html/T_Lextm_SharpSnmpLib_Messaging_WalkMode.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="0746b4c9-810e-4094-b948-6d364e91ab93" Title="Lextm.SharpSnmpLib.Objects" Url="html/N_Lextm_SharpSnmpLib_Objects.htm">
+      <HelpTOCNode Id="3b3163c9-7616-4815-9e74-3dbc701acc30" Title="IfNumber Class" Url="html/T_Lextm_SharpSnmpLib_Objects_IfNumber.htm">
+        <HelpTOCNode Title="IfNumber Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_IfNumber__ctor.htm" />
+        <HelpTOCNode Title="IfNumber Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_IfNumber.htm" />
+        <HelpTOCNode Id="59fa4a06-83a2-4255-b4d7-d373833921a0" Title="IfNumber Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_IfNumber.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_IfNumber_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="466213e4-8bf0-4f7f-b9ec-cf7c5151379d" Title="IfTable Class" Url="html/T_Lextm_SharpSnmpLib_Objects_IfTable.htm">
+        <HelpTOCNode Title="IfTable Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_IfTable__ctor.htm" />
+        <HelpTOCNode Title="IfTable Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_IfTable.htm" />
+        <HelpTOCNode Id="a9afbe5d-005c-49bd-8f93-4671b1c3069d" Title="IfTable Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_IfTable.htm">
+          <HelpTOCNode Title="Objects Property " Url="html/P_Lextm_SharpSnmpLib_Objects_IfTable_Objects.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="48915213-3968-4d1b-ad12-2091135c0874" Title="SysContact Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysContact.htm">
+        <HelpTOCNode Title="SysContact Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysContact__ctor.htm" />
+        <HelpTOCNode Title="SysContact Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysContact.htm" />
+        <HelpTOCNode Id="d87b1e2f-8855-4367-ab3f-8a7faee8c1c1" Title="SysContact Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysContact.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysContact_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="af157b7c-8e23-4ce6-ac3a-3fd7def297fb" Title="SysDescr Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysDescr.htm">
+        <HelpTOCNode Title="SysDescr Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysDescr__ctor.htm" />
+        <HelpTOCNode Title="SysDescr Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysDescr.htm" />
+        <HelpTOCNode Id="3e9fdf7b-4d18-4db0-a825-482affbf04a1" Title="SysDescr Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysDescr.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysDescr_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="79734449-3787-45f4-b039-b22a2917ddf1" Title="SysLocation Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysLocation.htm">
+        <HelpTOCNode Title="SysLocation Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysLocation__ctor.htm" />
+        <HelpTOCNode Title="SysLocation Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysLocation.htm" />
+        <HelpTOCNode Id="310a0525-55fe-451a-8632-72be2dc86369" Title="SysLocation Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysLocation.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysLocation_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a7272864-4f4e-49d3-9a56-66cabee9b35a" Title="SysName Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysName.htm">
+        <HelpTOCNode Title="SysName Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysName__ctor.htm" />
+        <HelpTOCNode Title="SysName Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysName.htm" />
+        <HelpTOCNode Id="3e7154cc-1490-48aa-854b-3733c2c22986" Title="SysName Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysName.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysName_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="eb464e3f-fbbb-4122-bc67-561435dea5a0" Title="SysObjectId Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysObjectId.htm">
+        <HelpTOCNode Title="SysObjectId Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysObjectId__ctor.htm" />
+        <HelpTOCNode Title="SysObjectId Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysObjectId.htm" />
+        <HelpTOCNode Id="68cd6f4d-34ca-400e-a5f5-3f459cbf273c" Title="SysObjectId Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysObjectId.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysObjectId_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2cfe383c-df70-40c7-8ca0-b715bbfc16b3" Title="SysORLastChange Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysORLastChange.htm">
+        <HelpTOCNode Title="SysORLastChange Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysORLastChange__ctor.htm" />
+        <HelpTOCNode Title="SysORLastChange Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysORLastChange.htm" />
+        <HelpTOCNode Id="87fe1ae0-4991-43fc-93f6-e2adcbd6f2ab" Title="SysORLastChange Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysORLastChange.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysORLastChange_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="107b3896-a9db-4af5-9992-f661ab0ddc90" Title="SysORTable Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysORTable.htm">
+        <HelpTOCNode Title="SysORTable Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysORTable__ctor.htm" />
+        <HelpTOCNode Title="SysORTable Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysORTable.htm" />
+        <HelpTOCNode Id="1a992a77-e8af-4303-bff8-7c224f6ca1ca" Title="SysORTable Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysORTable.htm">
+          <HelpTOCNode Title="Objects Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysORTable_Objects.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c84fff94-f297-4fcf-8168-86ee807f01d3" Title="SysServices Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysServices.htm">
+        <HelpTOCNode Title="SysServices Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysServices__ctor.htm" />
+        <HelpTOCNode Title="SysServices Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysServices.htm" />
+        <HelpTOCNode Id="eb02cc6e-52ed-4fe2-a731-d2fd4dca2240" Title="SysServices Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysServices.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysServices_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="56f758b1-c120-4710-9969-b81a481f74d2" Title="SysUpTime Class" Url="html/T_Lextm_SharpSnmpLib_Objects_SysUpTime.htm">
+        <HelpTOCNode Title="SysUpTime Constructor " Url="html/M_Lextm_SharpSnmpLib_Objects_SysUpTime__ctor.htm" />
+        <HelpTOCNode Title="SysUpTime Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Objects_SysUpTime.htm" />
+        <HelpTOCNode Id="b3ac6da6-2064-4a66-b7a2-f07656565c7b" Title="SysUpTime Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Objects_SysUpTime.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Objects_SysUpTime_Data.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e7d5ce1c-3c98-4b26-ada7-ff055d3d7544" Title="Lextm.SharpSnmpLib.Pipeline" Url="html/N_Lextm_SharpSnmpLib_Pipeline.htm">
+      <HelpTOCNode Id="5bf9ff66-8334-40d4-886b-1ed48c5d7a57" Title="AccessFailureException Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_AccessFailureException.htm">
+        <HelpTOCNode Id="cb754bb2-92bd-461a-87ea-73ff5728a6af" Title="AccessFailureException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Pipeline_AccessFailureException__ctor.htm">
+          <HelpTOCNode Title="AccessFailureException Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_AccessFailureException__ctor.htm" />
+          <HelpTOCNode Title="AccessFailureException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_AccessFailureException__ctor_1.htm" />
+          <HelpTOCNode Title="AccessFailureException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_AccessFailureException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c5290f99-cf85-4212-b0cb-94093e2d3984" Title="AccessFailureException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_AccessFailureException.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_AccessFailureException_ToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b55cf9b4-31b5-4df0-b0e6-75516ca2033d" Title="ComposedMembershipProvider Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_ComposedMembershipProvider.htm">
+        <HelpTOCNode Title="ComposedMembershipProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ComposedMembershipProvider__ctor.htm" />
+        <HelpTOCNode Id="625470ac-09cc-40e3-b426-312a041cd92f" Title="ComposedMembershipProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_ComposedMembershipProvider.htm">
+          <HelpTOCNode Title="AuthenticateRequest Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ComposedMembershipProvider_AuthenticateRequest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="971d1fcc-cfb6-4d87-9f4a-94cb0c90bf37" Title="EngineGroup Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_EngineGroup.htm">
+        <HelpTOCNode Title="EngineGroup Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_EngineGroup__ctor.htm" />
+        <HelpTOCNode Id="f1bd5471-ab16-4538-b0e2-b9714e5441e5" Title="EngineGroup Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_EngineGroup.htm">
+          <HelpTOCNode Title="IsInTime Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_EngineGroup_IsInTime.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="70683d25-05ae-439c-87c0-b44ec5c953cf" Title="EngineGroup Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_EngineGroup.htm">
+          <HelpTOCNode Title="AuthenticationFailure Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_AuthenticationFailure.htm" />
+          <HelpTOCNode Title="DecryptionError Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_DecryptionError.htm" />
+          <HelpTOCNode Title="EngineTime Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_EngineTime.htm" />
+          <HelpTOCNode Title="EngineTimeData Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_EngineTimeData.htm" />
+          <HelpTOCNode Title="NotInTimeWindow Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_NotInTimeWindow.htm" />
+          <HelpTOCNode Title="UnknownEngineId Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_UnknownEngineId.htm" />
+          <HelpTOCNode Title="UnknownSecurityName Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_UnknownSecurityName.htm" />
+          <HelpTOCNode Title="UnsupportedSecurityLevel Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_EngineGroup_UnsupportedSecurityLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="86211ba8-43e5-4ed8-935d-ecaf30bbd08c" Title="GetBulkMessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_GetBulkMessageHandler.htm">
+        <HelpTOCNode Title="GetBulkMessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetBulkMessageHandler__ctor.htm" />
+        <HelpTOCNode Id="cdc7271f-b26b-4b8f-b52a-9a03f5481728" Title="GetBulkMessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_GetBulkMessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetBulkMessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b1fcc24b-9a3d-4150-af5f-a872fa92c01e" Title="GetMessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_GetMessageHandler.htm">
+        <HelpTOCNode Title="GetMessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetMessageHandler__ctor.htm" />
+        <HelpTOCNode Id="35565f42-2300-4594-bcaa-1423dbca9e41" Title="GetMessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_GetMessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetMessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4325ba68-8937-464a-89e9-7e0ccf0b53f3" Title="GetNextMessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_GetNextMessageHandler.htm">
+        <HelpTOCNode Title="GetNextMessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetNextMessageHandler__ctor.htm" />
+        <HelpTOCNode Id="2de24b31-1683-4b48-8203-629749926942" Title="GetNextMessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_GetNextMessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetNextMessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="62e21c58-9554-415c-8396-b0bda69be514" Title="GetNextV1MessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_GetNextV1MessageHandler.htm">
+        <HelpTOCNode Title="GetNextV1MessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetNextV1MessageHandler__ctor.htm" />
+        <HelpTOCNode Id="ba82c51f-c2b4-46df-a4f8-52b656fe5163" Title="GetNextV1MessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_GetNextV1MessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetNextV1MessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c3de8915-a14c-4da5-82d3-74c590e1e7a1" Title="GetV1MessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_GetV1MessageHandler.htm">
+        <HelpTOCNode Title="GetV1MessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetV1MessageHandler__ctor.htm" />
+        <HelpTOCNode Id="e42dc82d-aab5-43a5-bbde-c9b3f8a7180d" Title="GetV1MessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_GetV1MessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_GetV1MessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="48ddb30f-0574-4242-bd5d-4dee2608ca23" Title="HandlerMapping Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_HandlerMapping.htm">
+        <HelpTOCNode Id="ab9a4bf5-45cc-4840-b303-d5b3095c15a6" Title="HandlerMapping Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Pipeline_HandlerMapping__ctor.htm">
+          <HelpTOCNode Title="HandlerMapping Constructor (String, String, IMessageHandler)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_HandlerMapping__ctor.htm" />
+          <HelpTOCNode Title="HandlerMapping Constructor (String, String, String, String)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_HandlerMapping__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a86aba69-eeac-44d4-b402-26997217ae7d" Title="HandlerMapping Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_HandlerMapping.htm">
+          <HelpTOCNode Title="CanHandle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_HandlerMapping_CanHandle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="67eb3853-07da-40fa-b401-6adf6dabf5ef" Title="HandlerMapping Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_HandlerMapping.htm">
+          <HelpTOCNode Title="Handler Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_HandlerMapping_Handler.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="435d645d-a8b3-4dd7-bdcf-ecbfccac8a88" Title="ILogger Interface" Url="html/T_Lextm_SharpSnmpLib_Pipeline_ILogger.htm">
+        <HelpTOCNode Id="dbd31444-2b55-4054-852f-bd138f9f57e2" Title="ILogger Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_ILogger.htm">
+          <HelpTOCNode Title="Log Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ILogger_Log.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ba4878f6-2375-46ae-9075-ea16aa9e4a0a" Title="IMembershipProvider Interface" Url="html/T_Lextm_SharpSnmpLib_Pipeline_IMembershipProvider.htm">
+        <HelpTOCNode Id="556764ed-78b6-4645-b11b-c17421c0b3a2" Title="IMembershipProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_IMembershipProvider.htm">
+          <HelpTOCNode Title="AuthenticateRequest Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_IMembershipProvider_AuthenticateRequest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b7adb353-7c23-4277-8553-c23ea7dbc5a3" Title="IMessageHandler Interface" Url="html/T_Lextm_SharpSnmpLib_Pipeline_IMessageHandler.htm">
+        <HelpTOCNode Id="3879b3f7-0d75-4b24-896f-7c5d3d4d37e0" Title="IMessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_IMessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_IMessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c5ba91ff-ead3-43f6-9d7e-88081b6bec85" Title="InformRequestMessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageHandler.htm">
+        <HelpTOCNode Title="InformRequestMessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageHandler__ctor.htm" />
+        <HelpTOCNode Id="e980f5bc-2b26-457b-8f6c-2afba1690db1" Title="InformRequestMessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageHandler_Handle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="48817ca0-911c-411a-b66f-8bcc709346bf" Title="InformRequestMessageHandler Events" Url="html/Events_T_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageHandler.htm">
+          <HelpTOCNode Title="MessageReceived Event" Url="html/E_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageHandler_MessageReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cea2f5c6-76d3-4976-9949-b1cb1b7658d9" Title="InformRequestMessageReceivedEventArgs Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageReceivedEventArgs.htm">
+        <HelpTOCNode Title="InformRequestMessageReceivedEventArgs Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageReceivedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="d3b08378-a5e7-4a1a-aa37-5f1f10b234c2" Title="InformRequestMessageReceivedEventArgs Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageReceivedEventArgs.htm">
+          <HelpTOCNode Title="Binding Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageReceivedEventArgs_Binding.htm" />
+          <HelpTOCNode Title="InformRequestMessage Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageReceivedEventArgs_InformRequestMessage.htm" />
+          <HelpTOCNode Title="Sender Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_InformRequestMessageReceivedEventArgs_Sender.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="630f4a1f-66b5-46b8-96e7-14e96ac0837e" Title="ISnmpContext Interface" Url="html/T_Lextm_SharpSnmpLib_Pipeline_ISnmpContext.htm">
+        <HelpTOCNode Id="6147ffe4-c97c-499d-abef-4fff4797a374" Title="ISnmpContext Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_ISnmpContext.htm">
+          <HelpTOCNode Title="CopyRequest Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_CopyRequest.htm" />
+          <HelpTOCNode Title="GenerateResponse Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_GenerateResponse.htm" />
+          <HelpTOCNode Title="GenerateTooBig Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_GenerateTooBig.htm" />
+          <HelpTOCNode Title="HandleMembership Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_HandleMembership.htm" />
+          <HelpTOCNode Title="SendResponse Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_SendResponse.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="fd9cd5e3-b8fe-402a-ab75-01bb5758cd5f" Title="ISnmpContext Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_ISnmpContext.htm">
+          <HelpTOCNode Title="Binding Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Binding.htm" />
+          <HelpTOCNode Title="CreatedTime Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_CreatedTime.htm" />
+          <HelpTOCNode Title="Request Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Request.htm" />
+          <HelpTOCNode Title="Response Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Response.htm" />
+          <HelpTOCNode Title="Sender Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Sender.htm" />
+          <HelpTOCNode Title="TooBig Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ISnmpContext_TooBig.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9bb65637-35e7-44b6-b8c0-049de7bb3f55" Title="ISnmpObject Interface" Url="html/T_Lextm_SharpSnmpLib_Pipeline_ISnmpObject.htm">
+        <HelpTOCNode Id="89764cef-85a2-4f81-a8fd-e5668eeae9c7" Title="ISnmpObject Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_ISnmpObject.htm">
+          <HelpTOCNode Title="MatchGet Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ISnmpObject_MatchGet.htm" />
+          <HelpTOCNode Title="MatchGetNext Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ISnmpObject_MatchGetNext.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7bdecdea-7c1f-48fd-a985-1e8b10797ea4" Title="MessageHandlerFactory Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_MessageHandlerFactory.htm">
+        <HelpTOCNode Title="MessageHandlerFactory Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_MessageHandlerFactory__ctor.htm" />
+        <HelpTOCNode Id="9f0bfc70-e0d7-4a62-a86b-5d215a053806" Title="MessageHandlerFactory Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_MessageHandlerFactory.htm">
+          <HelpTOCNode Title="GetHandler Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_MessageHandlerFactory_GetHandler.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f0d4673a-441d-48a6-8dee-c997004f82c7" Title="ObjectStore Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_ObjectStore.htm">
+        <HelpTOCNode Title="ObjectStore Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ObjectStore__ctor.htm" />
+        <HelpTOCNode Id="c271fc36-500f-4bc5-94c6-68370f8ab247" Title="ObjectStore Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_ObjectStore.htm">
+          <HelpTOCNode Title="Add Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ObjectStore_Add.htm" />
+          <HelpTOCNode Title="GetNextObject Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ObjectStore_GetNextObject.htm" />
+          <HelpTOCNode Title="GetObject Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ObjectStore_GetObject.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8386ad6e-f5c7-4f05-bfb7-cc64854f648c" Title="ScalarObject Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_ScalarObject.htm">
+        <HelpTOCNode Id="f57aa75c-9250-4b10-9a5e-df01b417049b" Title="ScalarObject Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Pipeline_ScalarObject__ctor.htm">
+          <HelpTOCNode Title="ScalarObject Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_ScalarObject__ctor_1.htm" />
+          <HelpTOCNode Title="ScalarObject Constructor (ObjectIdentifier)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_ScalarObject__ctor.htm" />
+          <HelpTOCNode Title="ScalarObject Constructor (String, Int32)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_ScalarObject__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="536d9280-8165-4066-8380-ed4f5a9a01ac" Title="ScalarObject Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_ScalarObject.htm">
+          <HelpTOCNode Title="MatchGet Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ScalarObject_MatchGet.htm" />
+          <HelpTOCNode Title="MatchGetNext Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_ScalarObject_MatchGetNext.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="10ee09db-c5c4-47b1-8eaf-dae4371c000f" Title="ScalarObject Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_ScalarObject.htm">
+          <HelpTOCNode Title="Data Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ScalarObject_Data.htm" />
+          <HelpTOCNode Title="Variable Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_ScalarObject_Variable.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5ffa72b3-78e4-43d1-acc7-b73c0f62fda6" Title="SetMessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_SetMessageHandler.htm">
+        <HelpTOCNode Title="SetMessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SetMessageHandler__ctor.htm" />
+        <HelpTOCNode Id="1221dcb1-35b5-41e8-a53a-962852ab8517" Title="SetMessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_SetMessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SetMessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="890dc0c4-5a37-4df8-a649-f60ad569f315" Title="SetV1MessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_SetV1MessageHandler.htm">
+        <HelpTOCNode Title="SetV1MessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SetV1MessageHandler__ctor.htm" />
+        <HelpTOCNode Id="e61cf11b-4cb6-47b2-9267-22b513f4acac" Title="SetV1MessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_SetV1MessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SetV1MessageHandler_Handle.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="00c739cf-6903-44ee-93b5-647ac670a4b4" Title="SnmpApplication Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_SnmpApplication.htm">
+        <HelpTOCNode Title="SnmpApplication Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpApplication__ctor.htm" />
+        <HelpTOCNode Id="5f652526-49d6-425b-86cf-8d160bf34afe" Title="SnmpApplication Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_SnmpApplication.htm">
+          <HelpTOCNode Title="CompleteProcessing Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpApplication_CompleteProcessing.htm" />
+          <HelpTOCNode Title="Init Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpApplication_Init.htm" />
+          <HelpTOCNode Title="Process Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpApplication_Process.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1f98f8c4-58c8-4e2c-866a-644a7adc5133" Title="SnmpApplication Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_SnmpApplication.htm">
+          <HelpTOCNode Title="Context Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_SnmpApplication_Context.htm" />
+          <HelpTOCNode Title="ProcessingFinished Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_SnmpApplication_ProcessingFinished.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="cf5e2876-930a-4b2c-bc25-2c9a768d1381" Title="SnmpApplicationFactory Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_SnmpApplicationFactory.htm">
+        <HelpTOCNode Id="51f022b6-b9a9-43ca-9c2f-40cf0f3c56fd" Title="SnmpApplicationFactory Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Pipeline_SnmpApplicationFactory__ctor.htm">
+          <HelpTOCNode Title="SnmpApplicationFactory Constructor (ObjectStore, IMembershipProvider, MessageHandlerFactory)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpApplicationFactory__ctor_1.htm" />
+          <HelpTOCNode Title="SnmpApplicationFactory Constructor (ILogger, ObjectStore, IMembershipProvider, MessageHandlerFactory)" Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpApplicationFactory__ctor.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0137be34-6d05-4c9f-b38b-f94c3a9afe65" Title="SnmpApplicationFactory Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_SnmpApplicationFactory.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpApplicationFactory_Create.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6229a772-5a5f-43c7-8f4d-7ed2447043e6" Title="SnmpEngine Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_SnmpEngine.htm">
+        <HelpTOCNode Title="SnmpEngine Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpEngine__ctor.htm" />
+        <HelpTOCNode Id="72f38f27-149b-402b-b18a-e3a810d0caa4" Title="SnmpEngine Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_SnmpEngine.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpEngine_Dispose.htm" />
+          <HelpTOCNode Title="Finalize Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpEngine_Finalize.htm" />
+          <HelpTOCNode Title="Start Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpEngine_Start.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpEngine_Stop.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="c2a2a6a6-46ec-4f4b-8a2b-20ddb4675848" Title="SnmpEngine Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_SnmpEngine.htm">
+          <HelpTOCNode Title="Active Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_SnmpEngine_Active.htm" />
+          <HelpTOCNode Title="Listener Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_SnmpEngine_Listener.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d6337fca-797c-4c4c-8603-fb1d1b6f74b0" Title="SnmpEngine Events" Url="html/Events_T_Lextm_SharpSnmpLib_Pipeline_SnmpEngine.htm">
+          <HelpTOCNode Title="ExceptionRaised Event" Url="html/E_Lextm_SharpSnmpLib_Pipeline_SnmpEngine_ExceptionRaised.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="648b9e01-ddca-47fe-a51e-cb073cfd6bad" Title="SnmpObjectBase Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_SnmpObjectBase.htm">
+        <HelpTOCNode Title="SnmpObjectBase Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpObjectBase__ctor.htm" />
+        <HelpTOCNode Id="caaae014-c2f3-47a3-952e-753e90ba10fe" Title="SnmpObjectBase Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_SnmpObjectBase.htm">
+          <HelpTOCNode Title="MatchGet Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpObjectBase_MatchGet.htm" />
+          <HelpTOCNode Title="MatchGetNext Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_SnmpObjectBase_MatchGetNext.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="93c8ce92-9e7b-42fa-80f8-491a4c87bd7e" Title="TableObject Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_TableObject.htm">
+        <HelpTOCNode Title="TableObject Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TableObject__ctor.htm" />
+        <HelpTOCNode Id="ca01955e-7852-42e6-9960-c12c31e55360" Title="TableObject Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_TableObject.htm">
+          <HelpTOCNode Title="MatchGet Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TableObject_MatchGet.htm" />
+          <HelpTOCNode Title="MatchGetNext Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TableObject_MatchGetNext.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="1bddefd5-c11e-48c6-be65-64e5e1bd0c65" Title="TableObject Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_TableObject.htm">
+          <HelpTOCNode Title="Objects Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_TableObject_Objects.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="30ccbf26-0024-4c0b-9075-a9031db3638a" Title="TrapV1MessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageHandler.htm">
+        <HelpTOCNode Title="TrapV1MessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageHandler__ctor.htm" />
+        <HelpTOCNode Id="1e8a0962-83dd-4a4b-a2cb-0787ea78591b" Title="TrapV1MessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageHandler_Handle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="9a08b866-47bd-4cd4-b0c8-5a0ecff5a026" Title="TrapV1MessageHandler Events" Url="html/Events_T_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageHandler.htm">
+          <HelpTOCNode Title="MessageReceived Event" Url="html/E_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageHandler_MessageReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6b8f27ff-3a74-4a44-877a-067c76cb3f76" Title="TrapV1MessageReceivedEventArgs Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageReceivedEventArgs.htm">
+        <HelpTOCNode Title="TrapV1MessageReceivedEventArgs Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageReceivedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="7106f0bf-4947-4a32-b68b-4968affb85a0" Title="TrapV1MessageReceivedEventArgs Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageReceivedEventArgs.htm">
+          <HelpTOCNode Title="Binding Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageReceivedEventArgs_Binding.htm" />
+          <HelpTOCNode Title="Sender Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageReceivedEventArgs_Sender.htm" />
+          <HelpTOCNode Title="TrapV1Message Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_TrapV1MessageReceivedEventArgs_TrapV1Message.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="02dd66b9-6ad5-483a-9c76-e53e642094d1" Title="TrapV2MessageHandler Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageHandler.htm">
+        <HelpTOCNode Title="TrapV2MessageHandler Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageHandler__ctor.htm" />
+        <HelpTOCNode Id="ae8ec532-89e0-4ffc-993b-7f89ec5f7168" Title="TrapV2MessageHandler Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageHandler.htm">
+          <HelpTOCNode Title="Handle Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageHandler_Handle.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="a2b1534d-1f45-4ab3-b8a1-633de6107aca" Title="TrapV2MessageHandler Events" Url="html/Events_T_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageHandler.htm">
+          <HelpTOCNode Title="MessageReceived Event" Url="html/E_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageHandler_MessageReceived.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ec0ddec0-4424-482b-904f-83f22181cd7c" Title="TrapV2MessageReceivedEventArgs Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageReceivedEventArgs.htm">
+        <HelpTOCNode Title="TrapV2MessageReceivedEventArgs Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageReceivedEventArgs__ctor.htm" />
+        <HelpTOCNode Id="c012743c-c4ed-4f77-a944-b3a60f2ab64a" Title="TrapV2MessageReceivedEventArgs Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageReceivedEventArgs.htm">
+          <HelpTOCNode Title="Binding Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageReceivedEventArgs_Binding.htm" />
+          <HelpTOCNode Title="Sender Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageReceivedEventArgs_Sender.htm" />
+          <HelpTOCNode Title="TrapV2Message Property " Url="html/P_Lextm_SharpSnmpLib_Pipeline_TrapV2MessageReceivedEventArgs_TrapV2Message.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="eae77e33-79d5-43a1-ab53-01c7305c4c3e" Title="Version1MembershipProvider Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_Version1MembershipProvider.htm">
+        <HelpTOCNode Title="Version1MembershipProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_Version1MembershipProvider__ctor.htm" />
+        <HelpTOCNode Id="90de39f0-67d0-46a9-85b4-7a126d16cefe" Title="Version1MembershipProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_Version1MembershipProvider.htm">
+          <HelpTOCNode Title="AuthenticateRequest Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_Version1MembershipProvider_AuthenticateRequest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="448a5042-fd94-4d68-8a70-319d1598fa03" Title="Version2MembershipProvider Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_Version2MembershipProvider.htm">
+        <HelpTOCNode Title="Version2MembershipProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_Version2MembershipProvider__ctor.htm" />
+        <HelpTOCNode Id="d04a9762-b26e-4555-868e-7662adeecf23" Title="Version2MembershipProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_Version2MembershipProvider.htm">
+          <HelpTOCNode Title="AuthenticateRequest Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_Version2MembershipProvider_AuthenticateRequest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b38b3dc1-4a4d-442b-b928-1c2e267e0974" Title="Version3MembershipProvider Class" Url="html/T_Lextm_SharpSnmpLib_Pipeline_Version3MembershipProvider.htm">
+        <HelpTOCNode Title="Version3MembershipProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Pipeline_Version3MembershipProvider__ctor.htm" />
+        <HelpTOCNode Id="73216692-02ff-4438-b919-4b8f89072dfe" Title="Version3MembershipProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Pipeline_Version3MembershipProvider.htm">
+          <HelpTOCNode Title="AuthenticateRequest Method " Url="html/M_Lextm_SharpSnmpLib_Pipeline_Version3MembershipProvider_AuthenticateRequest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9a92e61e-b3a8-49d8-8808-e600d91cbe89" Title="Lextm.SharpSnmpLib.Security" Url="html/N_Lextm_SharpSnmpLib_Security.htm">
+      <HelpTOCNode Id="8b5da4b1-5cb7-431c-8c7b-93f3b2567595" Title="AESPrivacyProvider Class" Url="html/T_Lextm_SharpSnmpLib_Security_AESPrivacyProvider.htm">
+        <HelpTOCNode Title="AESPrivacyProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_AESPrivacyProvider__ctor.htm" />
+        <HelpTOCNode Id="2c72aa35-a9aa-44c0-ae21-74ce29836ae6" Title="AESPrivacyProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_AESPrivacyProvider.htm">
+          <HelpTOCNode Title="Decrypt Method " Url="html/M_Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Decrypt.htm" />
+          <HelpTOCNode Title="Encrypt Method " Url="html/M_Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Encrypt.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_AESPrivacyProvider_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="846e7e46-373a-47ea-8f84-989c048e9763" Title="AESPrivacyProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_AESPrivacyProvider.htm">
+          <HelpTOCNode Title="AuthenticationProvider Property " Url="html/P_Lextm_SharpSnmpLib_Security_AESPrivacyProvider_AuthenticationProvider.htm" />
+          <HelpTOCNode Title="MaximumKeyLength Property " Url="html/P_Lextm_SharpSnmpLib_Security_AESPrivacyProvider_MaximumKeyLength.htm" />
+          <HelpTOCNode Title="Salt Property " Url="html/P_Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Salt.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="71508ae4-6974-41cc-9d0f-e676b4f7c85b" Title="AuthenticationProviderExtension Class" Url="html/T_Lextm_SharpSnmpLib_Security_AuthenticationProviderExtension.htm">
+        <HelpTOCNode Id="3beb517e-5031-4d93-9bb2-3fbd9e3e5bf4" Title="AuthenticationProviderExtension Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_AuthenticationProviderExtension.htm">
+          <HelpTOCNode Title="ComputeHash Method " Url="html/M_Lextm_SharpSnmpLib_Security_AuthenticationProviderExtension_ComputeHash.htm" />
+          <HelpTOCNode Title="VerifyHash Method " Url="html/M_Lextm_SharpSnmpLib_Security_AuthenticationProviderExtension_VerifyHash.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f98a347e-6f44-4f5f-a6a4-7f59acc784df" Title="Cache(TKey, TValue) Class" Url="html/T_Lextm_SharpSnmpLib_Security_Cache_2.htm">
+        <HelpTOCNode Title="Cache(TKey, TValue) Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_Cache_2__ctor.htm" />
+        <HelpTOCNode Id="bfc0eb0d-5fc9-4c5b-b25a-999e799c30b1" Title="Cache(TKey, TValue) Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_Cache_2.htm">
+          <HelpTOCNode Title="Add Method " Url="html/M_Lextm_SharpSnmpLib_Security_Cache_2_Add.htm" />
+          <HelpTOCNode Title="ContainsKey Method " Url="html/M_Lextm_SharpSnmpLib_Security_Cache_2_ContainsKey.htm" />
+          <HelpTOCNode Title="TryGetValue Method " Url="html/M_Lextm_SharpSnmpLib_Security_Cache_2_TryGetValue.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="8274726c-36a3-4be9-bc7c-a3f3db272f52" Title="Cache(TKey, TValue) Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_Cache_2.htm">
+          <HelpTOCNode Title="Count Property " Url="html/P_Lextm_SharpSnmpLib_Security_Cache_2_Count.htm" />
+          <HelpTOCNode Title="Item Property " Url="html/P_Lextm_SharpSnmpLib_Security_Cache_2_Item.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="15ba56b4-b97e-48d1-b625-0c0d2b147c96" Title="CryptoKeyCache Class" Url="html/T_Lextm_SharpSnmpLib_Security_CryptoKeyCache.htm">
+        <HelpTOCNode Title="CryptoKeyCache Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_CryptoKeyCache__ctor.htm" />
+        <HelpTOCNode Id="0718c7d4-4d9a-4e95-8168-1241d5eb7a62" Title="CryptoKeyCache Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_CryptoKeyCache.htm">
+          <HelpTOCNode Title="AddValueToCache Method " Url="html/M_Lextm_SharpSnmpLib_Security_CryptoKeyCache_AddValueToCache.htm" />
+          <HelpTOCNode Title="TryGetCachedValue Method " Url="html/M_Lextm_SharpSnmpLib_Security_CryptoKeyCache_TryGetCachedValue.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="ca0f6866-c8af-4bf9-a4a8-b6ddc4aaa2bc" Title="DecryptionException Class" Url="html/T_Lextm_SharpSnmpLib_Security_DecryptionException.htm">
+        <HelpTOCNode Id="990ce905-8e1d-4392-ba43-0710b41e4f7f" Title="DecryptionException Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Security_DecryptionException__ctor.htm">
+          <HelpTOCNode Title="DecryptionException Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_DecryptionException__ctor.htm" />
+          <HelpTOCNode Title="DecryptionException Constructor (String)" Url="html/M_Lextm_SharpSnmpLib_Security_DecryptionException__ctor_1.htm" />
+          <HelpTOCNode Title="DecryptionException Constructor (String, Exception)" Url="html/M_Lextm_SharpSnmpLib_Security_DecryptionException__ctor_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3d91c497-bdfd-46e7-b910-bcb3218864ed" Title="DecryptionException Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_DecryptionException.htm">
+          <HelpTOCNode Title="GetBytes Method " Url="html/M_Lextm_SharpSnmpLib_Security_DecryptionException_GetBytes.htm" />
+          <HelpTOCNode Title="SetBytes Method " Url="html/M_Lextm_SharpSnmpLib_Security_DecryptionException_SetBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_DecryptionException_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="DecryptionException Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_DecryptionException.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6469090a-2ed0-4010-a9cd-c40a64825425" Title="DefaultAuthenticationProvider Class" Url="html/T_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider.htm">
+        <HelpTOCNode Id="2aa44e9d-60a3-4087-93f7-2f92c42534ac" Title="DefaultAuthenticationProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider.htm">
+          <HelpTOCNode Id="89b7d110-c12c-46e5-ad11-82cf4a914357" Title="ComputeHash Method " Url="html/Overload_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider_ComputeHash.htm">
+            <HelpTOCNode Title="ComputeHash Method (Byte[], OctetString)" Url="html/M_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider_ComputeHash_1.htm" />
+            <HelpTOCNode Title="ComputeHash Method (VersionCode, ISegment, SecurityParameters, ISnmpData, IPrivacyProvider, Byte[])" Url="html/M_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider_ComputeHash.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="PasswordToKey Method " Url="html/M_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider_PasswordToKey.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="cfa7e6ac-fa33-435c-a7c9-efc18a8e219b" Title="DefaultAuthenticationProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider.htm">
+          <HelpTOCNode Title="CleanDigest Property " Url="html/P_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider_CleanDigest.htm" />
+          <HelpTOCNode Title="Instance Property " Url="html/P_Lextm_SharpSnmpLib_Security_DefaultAuthenticationProvider_Instance.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f62b35c3-079b-49cc-a385-b6edb0dc557c" Title="DefaultPrivacyProvider Class" Url="html/T_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider.htm">
+        <HelpTOCNode Title="DefaultPrivacyProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider__ctor.htm" />
+        <HelpTOCNode Id="437f5d06-5ce3-4af6-b7bc-c92488d3f41f" Title="DefaultPrivacyProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider.htm">
+          <HelpTOCNode Title="Decrypt Method " Url="html/M_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider_Decrypt.htm" />
+          <HelpTOCNode Title="Encrypt Method " Url="html/M_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider_Encrypt.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f914f5fd-8226-4fcd-97d5-939f3e127ee9" Title="DefaultPrivacyProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider.htm">
+          <HelpTOCNode Title="AuthenticationProvider Property " Url="html/P_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider_AuthenticationProvider.htm" />
+          <HelpTOCNode Title="DefaultPair Property " Url="html/P_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider_DefaultPair.htm" />
+          <HelpTOCNode Title="Salt Property " Url="html/P_Lextm_SharpSnmpLib_Security_DefaultPrivacyProvider_Salt.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6206af4d-aa41-45c3-9fcb-d7cbd8a0e06a" Title="DESPrivacyProvider Class" Url="html/T_Lextm_SharpSnmpLib_Security_DESPrivacyProvider.htm">
+        <HelpTOCNode Title="DESPrivacyProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_DESPrivacyProvider__ctor.htm" />
+        <HelpTOCNode Id="dd5cf337-c8f7-4225-a088-a52b7b4f7be8" Title="DESPrivacyProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_DESPrivacyProvider.htm">
+          <HelpTOCNode Id="bee27ae2-490f-45ab-b4e6-7840842985d6" Title="Decrypt Method " Url="html/Overload_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_Decrypt.htm">
+            <HelpTOCNode Title="Decrypt Method (ISnmpData, SecurityParameters)" Url="html/M_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_Decrypt.htm" />
+            <HelpTOCNode Title="Decrypt Method (Byte[], Byte[], Byte[])" Url="html/M_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_Decrypt_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="a53a24cc-f760-45cc-93eb-f32e0de52f19" Title="Encrypt Method " Url="html/Overload_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_Encrypt.htm">
+            <HelpTOCNode Title="Encrypt Method (ISnmpData, SecurityParameters)" Url="html/M_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_Encrypt.htm" />
+            <HelpTOCNode Title="Encrypt Method (Byte[], Byte[], Byte[])" Url="html/M_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_Encrypt_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+        <HelpTOCNode Id="2bb4d67e-7793-4a89-bdac-3a72ca69e9c7" Title="DESPrivacyProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_DESPrivacyProvider.htm">
+          <HelpTOCNode Title="AuthenticationProvider Property " Url="html/P_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_AuthenticationProvider.htm" />
+          <HelpTOCNode Title="MaximumKeyLength Property " Url="html/P_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_MaximumKeyLength.htm" />
+          <HelpTOCNode Title="MinimumKeyLength Property " Url="html/P_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_MinimumKeyLength.htm" />
+          <HelpTOCNode Title="PrivacyParametersLength Property " Url="html/P_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_PrivacyParametersLength.htm" />
+          <HelpTOCNode Title="Salt Property " Url="html/P_Lextm_SharpSnmpLib_Security_DESPrivacyProvider_Salt.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="88489eba-c4df-46c4-af98-c1613dd7bd50" Title="IAuthenticationProvider Interface" Url="html/T_Lextm_SharpSnmpLib_Security_IAuthenticationProvider.htm">
+        <HelpTOCNode Id="3648c4a8-f7a5-4bfe-8bc6-5eacc6b451d9" Title="IAuthenticationProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_IAuthenticationProvider.htm">
+          <HelpTOCNode Title="ComputeHash Method " Url="html/M_Lextm_SharpSnmpLib_Security_IAuthenticationProvider_ComputeHash.htm" />
+          <HelpTOCNode Title="PasswordToKey Method " Url="html/M_Lextm_SharpSnmpLib_Security_IAuthenticationProvider_PasswordToKey.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="66e242db-fcb5-4d61-be6c-73ea834cac7b" Title="IAuthenticationProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_IAuthenticationProvider.htm">
+          <HelpTOCNode Title="CleanDigest Property " Url="html/P_Lextm_SharpSnmpLib_Security_IAuthenticationProvider_CleanDigest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1bb3be11-cb5f-465c-a20e-1c9ff1aeb7a9" Title="IPrivacyProvider Interface" Url="html/T_Lextm_SharpSnmpLib_Security_IPrivacyProvider.htm">
+        <HelpTOCNode Id="b52091ac-9f2d-4828-ad11-d040a3224b73" Title="IPrivacyProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_IPrivacyProvider.htm">
+          <HelpTOCNode Title="Decrypt Method " Url="html/M_Lextm_SharpSnmpLib_Security_IPrivacyProvider_Decrypt.htm" />
+          <HelpTOCNode Title="Encrypt Method " Url="html/M_Lextm_SharpSnmpLib_Security_IPrivacyProvider_Encrypt.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7795afe0-7d7d-4b31-ad51-f11c12ab9243" Title="IPrivacyProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_IPrivacyProvider.htm">
+          <HelpTOCNode Title="AuthenticationProvider Property " Url="html/P_Lextm_SharpSnmpLib_Security_IPrivacyProvider_AuthenticationProvider.htm" />
+          <HelpTOCNode Title="Salt Property " Url="html/P_Lextm_SharpSnmpLib_Security_IPrivacyProvider_Salt.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="8a254bb8-d033-45ab-80f8-61b0e14f9e20" Title="MD5AuthenticationProvider Class" Url="html/T_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider.htm">
+        <HelpTOCNode Title="MD5AuthenticationProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider__ctor.htm" />
+        <HelpTOCNode Id="9fe706ad-3dc3-4704-aa9a-31062921e69a" Title="MD5AuthenticationProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider.htm">
+          <HelpTOCNode Title="ComputeHash Method " Url="html/M_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider_ComputeHash.htm" />
+          <HelpTOCNode Title="PasswordToKey Method " Url="html/M_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider_PasswordToKey.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="f170eef9-2a76-4363-b111-84ab65119455" Title="MD5AuthenticationProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider.htm">
+          <HelpTOCNode Title="CleanDigest Property " Url="html/P_Lextm_SharpSnmpLib_Security_MD5AuthenticationProvider_CleanDigest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="011beac4-0dba-4a62-b7ef-353278299bc6" Title="PrivacyProviderExtension Class" Url="html/T_Lextm_SharpSnmpLib_Security_PrivacyProviderExtension.htm">
+        <HelpTOCNode Id="451254d7-812c-4781-b465-bdb9744e78e3" Title="PrivacyProviderExtension Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_PrivacyProviderExtension.htm">
+          <HelpTOCNode Title="GetScopeData Method " Url="html/M_Lextm_SharpSnmpLib_Security_PrivacyProviderExtension_GetScopeData.htm" />
+          <HelpTOCNode Title="ToSecurityLevel Method " Url="html/M_Lextm_SharpSnmpLib_Security_PrivacyProviderExtension_ToSecurityLevel.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c517faf2-4b83-449f-8835-a4ec5b829a06" Title="SaltGenerator Class" Url="html/T_Lextm_SharpSnmpLib_Security_SaltGenerator.htm">
+        <HelpTOCNode Title="SaltGenerator Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_SaltGenerator__ctor.htm" />
+        <HelpTOCNode Id="8612425b-81dd-48a4-ad96-dd8473cc0067" Title="SaltGenerator Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_SaltGenerator.htm">
+          <HelpTOCNode Title="GetSaltBytes Method " Url="html/M_Lextm_SharpSnmpLib_Security_SaltGenerator_GetSaltBytes.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_SaltGenerator_ToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="74171741-914b-46f6-b03d-daa28036845e" Title="SHA1AuthenticationProvider Class" Url="html/T_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider.htm">
+        <HelpTOCNode Title="SHA1AuthenticationProvider Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider__ctor.htm" />
+        <HelpTOCNode Id="c2c5cad8-78aa-46f3-b1eb-318b207883af" Title="SHA1AuthenticationProvider Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider.htm">
+          <HelpTOCNode Title="ComputeHash Method " Url="html/M_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider_ComputeHash.htm" />
+          <HelpTOCNode Title="PasswordToKey Method " Url="html/M_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider_PasswordToKey.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d4e15ecc-b2ac-4789-807e-ea6253bb670c" Title="SHA1AuthenticationProvider Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider.htm">
+          <HelpTOCNode Title="CleanDigest Property " Url="html/P_Lextm_SharpSnmpLib_Security_SHA1AuthenticationProvider_CleanDigest.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="190d3f00-da37-414b-b59b-105a29c6949e" Title="User Class" Url="html/T_Lextm_SharpSnmpLib_Security_User.htm">
+        <HelpTOCNode Title="User Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_User__ctor.htm" />
+        <HelpTOCNode Id="2a0e5833-6b0a-4385-9e3d-60459ce2cbce" Title="User Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_User.htm">
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_User_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d8c8d3a6-12ab-4244-ac08-15af4e2eca72" Title="User Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_User.htm">
+          <HelpTOCNode Title="Name Property " Url="html/P_Lextm_SharpSnmpLib_Security_User_Name.htm" />
+          <HelpTOCNode Title="Privacy Property " Url="html/P_Lextm_SharpSnmpLib_Security_User_Privacy.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="49db5844-fd38-4645-9303-ba4bb068e8db" Title="UserRegistry Class" Url="html/T_Lextm_SharpSnmpLib_Security_UserRegistry.htm">
+        <HelpTOCNode Id="d9e8d323-d1bb-47d4-abe6-b7c4d6e82a9e" Title="UserRegistry Constructor " Url="html/Overload_Lextm_SharpSnmpLib_Security_UserRegistry__ctor.htm">
+          <HelpTOCNode Title="UserRegistry Constructor " Url="html/M_Lextm_SharpSnmpLib_Security_UserRegistry__ctor.htm" />
+          <HelpTOCNode Title="UserRegistry Constructor (User[])" Url="html/M_Lextm_SharpSnmpLib_Security_UserRegistry__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="98a017f7-75d9-41f2-9c8a-a817b66238e8" Title="UserRegistry Methods" Url="html/Methods_T_Lextm_SharpSnmpLib_Security_UserRegistry.htm">
+          <HelpTOCNode Id="93b64a65-b801-4a0d-bd31-0299282ca23c" Title="Add Method " Url="html/Overload_Lextm_SharpSnmpLib_Security_UserRegistry_Add.htm">
+            <HelpTOCNode Title="Add Method (User)" Url="html/M_Lextm_SharpSnmpLib_Security_UserRegistry_Add_1.htm" />
+            <HelpTOCNode Title="Add Method (OctetString, IPrivacyProvider)" Url="html/M_Lextm_SharpSnmpLib_Security_UserRegistry_Add.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Find Method " Url="html/M_Lextm_SharpSnmpLib_Security_UserRegistry_Find.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_Lextm_SharpSnmpLib_Security_UserRegistry_ToString.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d82131fc-9aca-4473-a4e7-48ec7046d3ea" Title="UserRegistry Properties" Url="html/Properties_T_Lextm_SharpSnmpLib_Security_UserRegistry.htm">
+          <HelpTOCNode Title="Count Property " Url="html/P_Lextm_SharpSnmpLib_Security_UserRegistry_Count.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
