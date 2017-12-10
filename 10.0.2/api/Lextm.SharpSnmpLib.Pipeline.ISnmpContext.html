@@ -1,0 +1,386 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Interface ISnmpContext
+   | #SNMP Library Documentation </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Interface ISnmpContext
+   | #SNMP Library Documentation ">
+    <meta name="generator" content="docfx 2.28.2.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext">
+  
+  
+  <h1 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext" class="text-break">Interface ISnmpContext
+  </h1>
+  <div class="markdown level0 summary">
+SNMP context interface.
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Lextm.SharpSnmpLib.Pipeline.html">Lextm.SharpSnmpLib.Pipeline</a></h6>
+  <h6><strong>Assembly</strong>: SharpSnmpLib.dll</h6>
+  <h5 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public interface ISnmpContext</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Binding_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Binding*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Binding" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Binding">Binding</h4>
+  <div class="markdown level1 summary">
+Gets or sets the binding.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IListenerBinding Binding { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Messaging.IListenerBinding.html">IListenerBinding</a></td>
+        <td>The binding.</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_CreatedTime_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.CreatedTime*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_CreatedTime" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.CreatedTime">CreatedTime</h4>
+  <div class="markdown level1 summary">
+Gets the created time.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime CreatedTime { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.DateTime</span></td>
+        <td>The created time.</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Request_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Request*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Request" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Request">Request</h4>
+  <div class="markdown level1 summary">
+Gets the request.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">ISnmpMessage Request { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Messaging.ISnmpMessage.html">ISnmpMessage</a></td>
+        <td>The request.</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Response_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Response*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Response" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Response">Response</h4>
+  <div class="markdown level1 summary">
+Gets the response.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">ISnmpMessage Response { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Messaging.ISnmpMessage.html">ISnmpMessage</a></td>
+        <td>The response.</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Sender_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Sender*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_Sender" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.Sender">Sender</h4>
+  <div class="markdown level1 summary">
+Gets the sender.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IPEndPoint Sender { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Net.IPEndPoint</span></td>
+        <td>The sender.</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_TooBig_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.TooBig*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_TooBig" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.TooBig">TooBig</h4>
+  <div class="markdown level1 summary">
+Gets a value indicating whether [too big].
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">bool TooBig { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><code>true</code> if the response is too big; otherwise, <code>false</code>.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_CopyRequest_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.CopyRequest*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_CopyRequest_Lextm_SharpSnmpLib_ErrorCode_System_Int32_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.CopyRequest(Lextm.SharpSnmpLib.ErrorCode,System.Int32)">CopyRequest(ErrorCode, Int32)</h4>
+  <div class="markdown level1 summary">
+Copies the request variable bindings to response.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void CopyRequest(ErrorCode status, int index)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.ErrorCode.html">ErrorCode</a></td>
+        <td><span class="parametername">status</span></td>
+        <td>The status.</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">index</span></td>
+        <td>The index.</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_GenerateResponse_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.GenerateResponse*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_GenerateResponse_System_Collections_Generic_IList_Lextm_SharpSnmpLib_Variable__" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.GenerateResponse(System.Collections.Generic.IList{Lextm.SharpSnmpLib.Variable})">GenerateResponse(IList&lt;Variable&gt;)</h4>
+  <div class="markdown level1 summary">
+Generates the response.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void GenerateResponse(IList&lt;Variable&gt; variables)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IList</span>&lt;<a class="xref" href="Lextm.SharpSnmpLib.Variable.html">Variable</a>&gt;</td>
+        <td><span class="parametername">variables</span></td>
+        <td>The variables.</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_GenerateTooBig_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.GenerateTooBig*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_GenerateTooBig" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.GenerateTooBig">GenerateTooBig()</h4>
+  <div class="markdown level1 summary">
+Generates too big message.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void GenerateTooBig()</code></pre>
+  </div>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_HandleMembership_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.HandleMembership*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_HandleMembership" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.HandleMembership">HandleMembership()</h4>
+  <div class="markdown level1 summary">
+Handles the membership authentication.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">bool HandleMembership()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_SendResponse_" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.SendResponse*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Pipeline_ISnmpContext_SendResponse" data-uid="Lextm.SharpSnmpLib.Pipeline.ISnmpContext.SendResponse">SendResponse()</h4>
+  <div class="markdown level1 summary">
+Sends out response message.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void SendResponse()</code></pre>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+             
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+    <script type='text/javascript'>
+        function _dmBootstrap(file) {
+            var _dma = document.createElement('script');
+            _dma.type = 'text/javascript';
+            _dma.async = true;
+            _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+        }
+        function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+        (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+    </script>
+  </body>
+</html>

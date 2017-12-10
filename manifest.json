@@ -1,0 +1,1745 @@
+{
+  "homepages": [],
+  "xrefmap": "10.0.2.xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ByteTool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ByteTool.html",
+          "hash": "9Qj7BfnYWAJpgGExl+mngQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Counter32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Counter32.html",
+          "hash": "19NcSsaHTe2vvCUAR+nPRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Counter64.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Counter64.html",
+          "hash": "Kzz1IZJA3akeoOOwNkO/6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.DataFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.DataFactory.html",
+          "hash": "gS2fZ1YB77Vvqn9VANwQYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.EndOfMibView.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.EndOfMibView.html",
+          "hash": "eUS+wIkFPnuQVKJi7NdlBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ErrorCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ErrorCode.html",
+          "hash": "ijj0FKOQTw52YotlyuXx6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Gauge32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Gauge32.html",
+          "hash": "gX8RnnYWq/frLPOU+8kFEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.GenericCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.GenericCode.html",
+          "hash": "QGK4xPrxjXWtToK/zQVtdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.GetBulkRequestPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.GetBulkRequestPdu.html",
+          "hash": "tHjWH4KQMSJCv0AEs0TnPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.GetNextRequestPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.GetNextRequestPdu.html",
+          "hash": "GZHmU8FW4NEemYIz7Apmtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.GetRequestPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.GetRequestPdu.html",
+          "hash": "DNXqs/Pt/0fB9m7f9B4pTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Header.html",
+          "hash": "cZHemg8g1FHsahb1ezWong=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Helper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Helper.html",
+          "hash": "Sf1K/bab35dba0BxavQTsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.IP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.IP.html",
+          "hash": "qHGBP/ln5OYR9qLVQ723Wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ISegment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ISegment.html",
+          "hash": "8qcy4F/x6Z0O/g7JFK47tA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ISnmpData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ISnmpData.html",
+          "hash": "s3r3hj5yTVeWh9B2+Eg8HQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ISnmpPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ISnmpPdu.html",
+          "hash": "SyoLH6n2EDgso98qONFT6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.InformRequestPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.InformRequestPdu.html",
+          "hash": "l5gHFdFVpFeEpFPYcFYQwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Integer32.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Integer32.html",
+          "hash": "uRsGwjM250di4WvS0IoHfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Levels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Levels.html",
+          "hash": "ZfcxKrm1LlWkkEnB4Q53ow=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.MalformedPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.MalformedPdu.html",
+          "hash": "fdj4YhnJ0QKv3zfIBktb0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.AgentFoundEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.AgentFoundEventArgs.html",
+          "hash": "ePa8fBqJa5ETSfx/3yzJGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.Discoverer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.Discoverer.html",
+          "hash": "E4SuN3LfWIwrCDblV1WuTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.Discovery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.Discovery.html",
+          "hash": "SpJN4YMbbZMkq0XHFDKzxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.EndPointExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.EndPointExtension.html",
+          "hash": "lX2aBKuV3qnwv/ny2tdIAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.ErrorException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.ErrorException.html",
+          "hash": "dT0T8N2iuY+tMt01zzMiBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.ExceptionRaisedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.ExceptionRaisedEventArgs.html",
+          "hash": "1p7WzKMBIjkEi0oaTXlWiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.GetBulkRequestMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.GetBulkRequestMessage.html",
+          "hash": "Gufhd1yeoQ3lhHqhBPXF4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.GetNextRequestMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.GetNextRequestMessage.html",
+          "hash": "dev98/zBPE5BeTfJ+pscxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.GetRequestMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.GetRequestMessage.html",
+          "hash": "lE6a1+DMYEKfCINiqLBeZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.IListenerBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.IListenerBinding.html",
+          "hash": "aOsANXyI4OG8RSCtQwnh0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.ISnmpMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.ISnmpMessage.html",
+          "hash": "ILZ0mE4w7ZeNNR/WqHe3Eg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.InformRequestMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.InformRequestMessage.html",
+          "hash": "zSvW3nxhxkUlZ4jxYL7Dow=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.Listener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.Listener.html",
+          "hash": "N9ZYBUXEkgnIAuMJ+pn3Mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.ListenerBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.ListenerBinding.html",
+          "hash": "tg+ZF9Fj0Y76S4pHlE3rSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.MalformedMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.MalformedMessage.html",
+          "hash": "knsm5hJkYHF/jcTFoieO6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.Manager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.Manager.html",
+          "hash": "dUjBoFR2326s6Tv9lPxP7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.MessageFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.MessageFactory.html",
+          "hash": "mAEA/kKnzW3gfHUy5UnJ3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.MessageFactoryException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.MessageFactoryException.html",
+          "hash": "kAVdxj7oLP2kZdLo44V0Gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.MessageReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.MessageReceivedEventArgs.html",
+          "hash": "8c0Cwfgcnjvp/Py0XfPwmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.Messenger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.Messenger.html",
+          "hash": "S6kncH6gXmRJBmfEQRa68g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.NumberGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.NumberGenerator.html",
+          "hash": "2auJT+dRUHFMIX+OHAZ6BQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.PortInUseException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.PortInUseException.html",
+          "hash": "hG/dFGS51M3Li9LP6ktUJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.ReportMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.ReportMessage.html",
+          "hash": "+e2cl62rVn49zZ6yoRbpRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.ResponseMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.ResponseMessage.html",
+          "hash": "cP1KfURiTUipDng8Op52Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.SetRequestMessage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.SetRequestMessage.html",
+          "hash": "m6aJ+EoiraDfGwB0JlZvnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html",
+          "hash": "jLnxaHnyZEUU1WO4CIt37w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.SocketAsyncEventArgsFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.SocketAsyncEventArgsFactory.html",
+          "hash": "3FmRYgm2fTYGmKpXAFJhWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.TimeoutException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.TimeoutException.html",
+          "hash": "mJRymTOEtp2lKl6FZ21LXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.TrapV1Message.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.TrapV1Message.html",
+          "hash": "c4VoiW06/vf8zfz8rvzghA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.TrapV2Message.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.TrapV2Message.html",
+          "hash": "cXzSMFmVQSJTQDEdr1Fozg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.WalkMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.WalkMode.html",
+          "hash": "ZMmQsg2/eFihbT73Smepvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Messaging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Messaging.html",
+          "hash": "2vW4z7+4vCW7jO5aw4TSSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.NoSuchInstance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.NoSuchInstance.html",
+          "hash": "SJbmQHTHJezH+gbfh618NQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.NoSuchObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.NoSuchObject.html",
+          "hash": "J7BVoIT9z+jBXKUXk6CD6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Null.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Null.html",
+          "hash": "QexpwWMrW2CdF1dCbORLcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ObjectIdentifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ObjectIdentifier.html",
+          "hash": "JxdVAF3xJ/jmWJL6VCQVcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ObjectIdentifierConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ObjectIdentifierConverter.html",
+          "hash": "zLKbERNfjQmDE5GBRzeukA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.IfNumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.IfNumber.html",
+          "hash": "uPVwim+wSnL/mwvxrl1VGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.IfTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.IfTable.html",
+          "hash": "s608Di0gSUC8G4TssuZtKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysContact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysContact.html",
+          "hash": "Z1xQg66fqgzLIAurW+RXmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysDescr.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysDescr.html",
+          "hash": "egjXVRgHrfoybhpOEgha2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysLocation.html",
+          "hash": "x0LZaF6cadO2jt6ChODW8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysName.html",
+          "hash": "aYvcoQVLZEQsGgrwhh4/Cg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysORLastChange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysORLastChange.html",
+          "hash": "ZVAfRfVFdvtiG2PF4RJNGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysORTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysORTable.html",
+          "hash": "VAFczfHCVXC1CD+2ULpYIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysObjectId.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysObjectId.html",
+          "hash": "nVqZFm8FDwEZfpFp/iAzJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysServices.html",
+          "hash": "I1QtAzyhB7Kzf+ut0gQUjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.SysUpTime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.SysUpTime.html",
+          "hash": "5Jycx7KhY63YYcpzGsJifA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Objects.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Objects.html",
+          "hash": "kPOcgKW6hHKJRDxfRK0jwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.OctetString.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.OctetString.html",
+          "hash": "0VT9mO9WcUUvNRNRlNeBKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Opaque.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Opaque.html",
+          "hash": "xXy3Y9f3Ju9R4Nx5q0D6OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.OperationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.OperationException.html",
+          "hash": "PQnqQXyk+5rlxJPPPNWQTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.AccessFailureException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.AccessFailureException.html",
+          "hash": "Z52IL/Su6pEd+pSjzzxGgA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ComposedMembershipProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ComposedMembershipProvider.html",
+          "hash": "r0iwmaMympPWif+UsWcpjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.DefaultTypeResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.DefaultTypeResolver.html",
+          "hash": "gl9QiZjp+iop3Xq0WJUb0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.EngineGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.EngineGroup.html",
+          "hash": "PgFAUEMCulRfwkYgTdgCjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetBulkMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetBulkMessageHandler.html",
+          "hash": "KgSwwLhs0LUKrHSD1DxlAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetMessageHandler.html",
+          "hash": "EFLelAns1Dr/2tx5/5RYMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetNextMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetNextMessageHandler.html",
+          "hash": "1E+bi5W36d7yP8N95C1b1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetNextV1MessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetNextV1MessageHandler.html",
+          "hash": "FFuVEQMvXAeGsVonLLP3FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetV1MessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.GetV1MessageHandler.html",
+          "hash": "pgFyP2k4TqM/FgiPfDndvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.HandlerMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.HandlerMapping.html",
+          "hash": "uNcf0xTxGo/7A01ub3kTFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ILogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ILogger.html",
+          "hash": "mkaWI4rNsoXLIhR0AZmG2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.IMembershipProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.IMembershipProvider.html",
+          "hash": "NDp2eDlEKXHPiqJFry7XeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.IMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.IMessageHandler.html",
+          "hash": "HHgoaydr/rcKcHv+WHzoWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ISnmpContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ISnmpContext.html",
+          "hash": "rKJHM9gkFOgL+18HHOFEoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ISnmpObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ISnmpObject.html",
+          "hash": "cIHaqJj77PVVKbrGFrRlJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ITypeResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ITypeResolver.html",
+          "hash": "EtKmbfgIuA+HVd1wlK8rxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.InformRequestMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.InformRequestMessageHandler.html",
+          "hash": "PhOiukmUHx1rJbT5HQGLVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.InformRequestMessageReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.InformRequestMessageReceivedEventArgs.html",
+          "hash": "RhjDKPftToa3AsJouWgcVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.MessageHandlerFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.MessageHandlerFactory.html",
+          "hash": "AopsfYhlfpGQDh/a71SmjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ObjectStore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ObjectStore.html",
+          "hash": "2j7d7tv6bnwxgYAt/y8OXg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ScalarObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.ScalarObject.html",
+          "hash": "Y5HF5V5Usu0Ppgm+MKUbsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SetMessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SetMessageHandler.html",
+          "hash": "eRbbgW0O41N2gKydG8Rlfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SetV1MessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SetV1MessageHandler.html",
+          "hash": "+Hs/ipJY2EXZ3+x6ocOYAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpApplication.html",
+          "hash": "UKhxzWK7CflTe+W/8y3j5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpApplicationFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpApplicationFactory.html",
+          "hash": "zWTXeIXuIgTGEdvnfWO0dA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpEngine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpEngine.html",
+          "hash": "svyYfs1NUBBbSMagP+C3tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpObjectBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.SnmpObjectBase.html",
+          "hash": "1WESzYQtSK8v76cXuZuNIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TableObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TableObject.html",
+          "hash": "FkSuz5FqlEDyzE60J/00pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV1MessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV1MessageHandler.html",
+          "hash": "mNYY9EeXv31/06clpHHJTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV1MessageReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV1MessageReceivedEventArgs.html",
+          "hash": "U7ANgmZ8ryZ+L1vjbl67Fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV2MessageHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV2MessageHandler.html",
+          "hash": "EpzfE86GhcsQeBL7yZAGaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV2MessageReceivedEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.TrapV2MessageReceivedEventArgs.html",
+          "hash": "d13dK54XvfoY+1hZarwuqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.Version1MembershipProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.Version1MembershipProvider.html",
+          "hash": "miq8CGdnZ1oplLaePN8qcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.Version2MembershipProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.Version2MembershipProvider.html",
+          "hash": "g/zMP62qnCIIUs6rOo99/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.Version3MembershipProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.Version3MembershipProvider.html",
+          "hash": "rxmHtDGTkEENfzIMLNCl6w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Pipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Pipeline.html",
+          "hash": "dhtZ6AHkI05OngqRVWkawA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ReportPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ReportPdu.html",
+          "hash": "tGW03txXvPMHcFg01Hp2yw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.ResponsePdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.ResponsePdu.html",
+          "hash": "VeltaTTokjurT/rZGA4n/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Scope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Scope.html",
+          "hash": "YMQBnHjTNqXamzOE94e/jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.AESPrivacyProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.AESPrivacyProvider.html",
+          "hash": "mIKLJBcEmkoXN1cpkR0cIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.Cache-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.Cache-2.html",
+          "hash": "ZzdkxV7ylJH/PTQK2++awA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.CryptoKeyCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.CryptoKeyCache.html",
+          "hash": "oj88lWd6+0ffKzd2shJI2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.DESPrivacyProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.DESPrivacyProvider.html",
+          "hash": "vviBs1itTHWiBZYRk+qfZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.DecryptionException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.DecryptionException.html",
+          "hash": "iGJciZXskHfyQiy5lojYsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.DefaultAuthenticationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.DefaultAuthenticationProvider.html",
+          "hash": "vjb1sHnc/TAuppd9HsGMSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.DefaultPrivacyProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.DefaultPrivacyProvider.html",
+          "hash": "cfxj1pY/DBqXcq1Ne+2fYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.IAuthenticationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.IAuthenticationProvider.html",
+          "hash": "jfpSqha2nvN1FnJ61tZN/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.IPrivacyProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.IPrivacyProvider.html",
+          "hash": "TgIoayj/QJ3IM5lnyta+wA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.MD5AuthenticationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.MD5AuthenticationProvider.html",
+          "hash": "1aF1UETXZxVYLrM2SDtTlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.PrivacyProviderExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.PrivacyProviderExtension.html",
+          "hash": "Fn0KstfbdpSuOVjj+gfjHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.SHA1AuthenticationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.SHA1AuthenticationProvider.html",
+          "hash": "vlbKiKza7NCJv/mU1RejZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.SaltGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.SaltGenerator.html",
+          "hash": "fV5/h57fT3w8E6UK+AMyzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.User.html",
+          "hash": "2J5iIPvtveMB5s2jYKaLfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.UserRegistry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.UserRegistry.html",
+          "hash": "GaIhnuq5DWgrT65k47DJgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Security.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Security.html",
+          "hash": "edPJuc9EU8dE278VSExiuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.SecurityParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.SecurityParameters.html",
+          "hash": "JLT5HiN03C42oC2BY4jzRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Sequence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Sequence.html",
+          "hash": "NBX8je7KRCovF2uHf6BFOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.SetRequestPdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.SetRequestPdu.html",
+          "hash": "RqXc0B9/Dtp4T0FgBQR+dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.SnmpDataExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.SnmpDataExtension.html",
+          "hash": "+7VvYjlsoUlX3tC288LLxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.SnmpException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.SnmpException.html",
+          "hash": "IDISHfuFZ1/uu3b1cLWm9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.SnmpType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.SnmpType.html",
+          "hash": "o8Yr6RioEmzUKoh6xBEQvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.StreamExtension.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.StreamExtension.html",
+          "hash": "NT19tIH+lWi1cQqBWo3MJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.TimeTicks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.TimeTicks.html",
+          "hash": "XfUjIye5bDNZsaVnwj6pdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.TrapV1Pdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.TrapV1Pdu.html",
+          "hash": "uJlJWPZ0wmCs06vrMlw7Mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.TrapV2Pdu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.TrapV2Pdu.html",
+          "hash": "R/EjM8896cKPpva1YP2a5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.Variable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.Variable.html",
+          "hash": "CkJtKxsWjNfm4wCgIdSpPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.VersionCode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.VersionCode.html",
+          "hash": "8Erztb8wQjhMFfwSpf2Sew=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/10.0.2/api/Lextm.SharpSnmpLib.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/Lextm.SharpSnmpLib.html",
+          "hash": "DSGs7j+zLNF/foYgEPVxhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/10.0.2/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "10.0.2/api/toc.html",
+          "hash": "4i1DrUOTNLq1TKIX+Fbdeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "10.0.2"
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {
+    "10.0.2": {}
+  },
+  "groups": [
+    {
+      "xrefmap": "10.0.2.xrefmap.yml"
+    }
+  ]
+}

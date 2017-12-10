@@ -1,0 +1,469 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class AESPrivacyProvider
+   | #SNMP Library Documentation </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class AESPrivacyProvider
+   | #SNMP Library Documentation ">
+    <meta name="generator" content="docfx 2.28.2.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider">
+  
+  
+  <h1 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider" class="text-break">Class AESPrivacyProvider
+  </h1>
+  <div class="markdown level0 summary">
+Privacy provider for AES 128.
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">AESPrivacyProvider</span></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="Lextm.SharpSnmpLib.Security.IPrivacyProvider.html">IPrivacyProvider</a></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Lextm.SharpSnmpLib.Security.html">Lextm.SharpSnmpLib.Security</a></h6>
+  <h6><strong>Assembly</strong>: SharpSnmpLib.dll</h6>
+  <h5 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public sealed class AESPrivacyProvider : IPrivacyProvider</code></pre>
+  </div>
+  <h5 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_remarks"><strong>Remarks</strong></h5>
+  <div class="markdown level0 remarks">
+This is an experimental port from SNMP#NET project. As AES is not part of SNMP RFC, this class is provided as it is.
+If you want other AES providers, you can port them from SNMP#NET in a similar manner.
+</div>
+  <h3 id="constructors">Constructors
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider__ctor_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.#ctor*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider__ctor_Lextm_SharpSnmpLib_OctetString_Lextm_SharpSnmpLib_Security_IAuthenticationProvider_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.#ctor(Lextm.SharpSnmpLib.OctetString,Lextm.SharpSnmpLib.Security.IAuthenticationProvider)">AESPrivacyProvider(OctetString, IAuthenticationProvider)</h4>
+  <div class="markdown level1 summary">
+Initializes a new instance of the <a class="xref" href="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.html">AESPrivacyProvider</a> class.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public AESPrivacyProvider(OctetString phrase, IAuthenticationProvider auth)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.OctetString.html">OctetString</a></td>
+        <td><span class="parametername">phrase</span></td>
+        <td>The phrase.</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Security.IAuthenticationProvider.html">IAuthenticationProvider</a></td>
+        <td><span class="parametername">auth</span></td>
+        <td>The authentication provider.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_AuthenticationProvider_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.AuthenticationProvider*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_AuthenticationProvider" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.AuthenticationProvider">AuthenticationProvider</h4>
+  <div class="markdown level1 summary">
+Corresponding <a class="xref" href="Lextm.SharpSnmpLib.Security.IAuthenticationProvider.html">IAuthenticationProvider</a>.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IAuthenticationProvider AuthenticationProvider { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Security.IAuthenticationProvider.html">IAuthenticationProvider</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_EngineId_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.EngineId*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_EngineId" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.EngineId">EngineId</h4>
+  <div class="markdown level1 summary">
+Engine ID.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public OctetString EngineId { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.OctetString.html">OctetString</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_EngineId_remarks">Remarks</h5>
+  <div class="markdown level1 remarks">This is an optional field, and only used by TRAP v2 authentication.</div>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_IsSupported_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.IsSupported*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_IsSupported" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.IsSupported">IsSupported</h4>
+  <div class="markdown level1 summary">
+Verifies if the provider is supported.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static bool IsSupported { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_MaximumKeyLength_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.MaximumKeyLength*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_MaximumKeyLength" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.MaximumKeyLength">MaximumKeyLength</h4>
+  <div class="markdown level1 summary">
+Return maximum encryption/decryption key length. For DES, returned value is 16
+
+DES protocol itself requires an 8 byte key. Additional 8 bytes are used for generating the
+encryption IV. For encryption itself, first 8 bytes of the key are used.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static int MaximumKeyLength { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Salt_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.Salt*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Salt" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.Salt">Salt</h4>
+  <div class="markdown level1 summary">
+Gets the salt.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public OctetString Salt { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.OctetString.html">OctetString</a></td>
+        <td>The salt.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Decrypt_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.Decrypt*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Decrypt_Lextm_SharpSnmpLib_ISnmpData_Lextm_SharpSnmpLib_SecurityParameters_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.Decrypt(Lextm.SharpSnmpLib.ISnmpData,Lextm.SharpSnmpLib.SecurityParameters)">Decrypt(ISnmpData, SecurityParameters)</h4>
+  <div class="markdown level1 summary">
+Decrypts the specified data.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ISnmpData Decrypt(ISnmpData data, SecurityParameters parameters)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.ISnmpData.html">ISnmpData</a></td>
+        <td><span class="parametername">data</span></td>
+        <td>The data.</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.SecurityParameters.html">SecurityParameters</a></td>
+        <td><span class="parametername">parameters</span></td>
+        <td>The parameters.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.ISnmpData.html">ISnmpData</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Encrypt_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.Encrypt*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_Encrypt_Lextm_SharpSnmpLib_ISnmpData_Lextm_SharpSnmpLib_SecurityParameters_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.Encrypt(Lextm.SharpSnmpLib.ISnmpData,Lextm.SharpSnmpLib.SecurityParameters)">Encrypt(ISnmpData, SecurityParameters)</h4>
+  <div class="markdown level1 summary">
+Encrypts the specified scope.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ISnmpData Encrypt(ISnmpData data, SecurityParameters parameters)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.ISnmpData.html">ISnmpData</a></td>
+        <td><span class="parametername">data</span></td>
+        <td>The scope data.</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.SecurityParameters.html">SecurityParameters</a></td>
+        <td><span class="parametername">parameters</span></td>
+        <td>The parameters.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.ISnmpData.html">ISnmpData</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_ToString_" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.ToString*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Security_AESPrivacyProvider_ToString" data-uid="Lextm.SharpSnmpLib.Security.AESPrivacyProvider.ToString">ToString()</h4>
+  <div class="markdown level1 summary">
+Returns a string that represents this object.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override string ToString()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><span class="xref">System.Object.ToString()</span></div>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Security.IPrivacyProvider.html">IPrivacyProvider</a>
+  </div>
+  <h3 id="extensionmethods">Extension Methods</h3>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Security.PrivacyProviderExtension.html#Lextm_SharpSnmpLib_Security_PrivacyProviderExtension_ToSecurityLevel_Lextm_SharpSnmpLib_Security_IPrivacyProvider_">PrivacyProviderExtension.ToSecurityLevel(IPrivacyProvider)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Security.PrivacyProviderExtension.html#Lextm_SharpSnmpLib_Security_PrivacyProviderExtension_GetScopeData_Lextm_SharpSnmpLib_Security_IPrivacyProvider_Lextm_SharpSnmpLib_Header_Lextm_SharpSnmpLib_SecurityParameters_Lextm_SharpSnmpLib_ISnmpData_">PrivacyProviderExtension.GetScopeData(IPrivacyProvider, Header, SecurityParameters, ISnmpData)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Security.PrivacyProviderExtension.html#Lextm_SharpSnmpLib_Security_PrivacyProviderExtension_ComputeHash_Lextm_SharpSnmpLib_Security_IPrivacyProvider_Lextm_SharpSnmpLib_VersionCode_Lextm_SharpSnmpLib_Header_Lextm_SharpSnmpLib_SecurityParameters_Lextm_SharpSnmpLib_ISegment_">PrivacyProviderExtension.ComputeHash(IPrivacyProvider, VersionCode, Header, SecurityParameters, ISegment)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Security.PrivacyProviderExtension.html#Lextm_SharpSnmpLib_Security_PrivacyProviderExtension_VerifyHash_Lextm_SharpSnmpLib_Security_IPrivacyProvider_Lextm_SharpSnmpLib_VersionCode_Lextm_SharpSnmpLib_Header_Lextm_SharpSnmpLib_SecurityParameters_Lextm_SharpSnmpLib_ISnmpData_System_Byte___">PrivacyProviderExtension.VerifyHash(IPrivacyProvider, VersionCode, Header, SecurityParameters, ISnmpData, Byte[])</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+             
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+    <script type='text/javascript'>
+        function _dmBootstrap(file) {
+            var _dma = document.createElement('script');
+            _dma.type = 'text/javascript';
+            _dma.async = true;
+            _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+        }
+        function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+        (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,651 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class TrapV1Message
+   | #SNMP Library Documentation </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class TrapV1Message
+   | #SNMP Library Documentation ">
+    <meta name="generator" content="docfx 2.28.2.0">
+    
+    <link rel="shortcut icon" href="../../favicon.ico">
+    <link rel="stylesheet" href="../../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../../styles/docfx.css">
+    <link rel="stylesheet" href="../../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../../index.html">
+                <img id="logo" class="svg" src="../../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message">
+  
+  
+  <h1 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message" class="text-break">Class TrapV1Message
+  </h1>
+  <div class="markdown level0 summary">
+Trap message.
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">TrapV1Message</span></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="Lextm.SharpSnmpLib.Messaging.ISnmpMessage.html">ISnmpMessage</a></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.Equals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.ReferenceEquals(System.Object, System.Object)</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetHashCode()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.GetType()</span>
+    </div>
+    <div>
+      <span class="xref">System.Object.MemberwiseClone()</span>
+    </div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Lextm.SharpSnmpLib.Messaging.html">Lextm.SharpSnmpLib.Messaging</a></h6>
+  <h6><strong>Assembly</strong>: SharpSnmpLib.dll</h6>
+  <h5 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public sealed class TrapV1Message : ISnmpMessage</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message__ctor_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.#ctor*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message__ctor_Lextm_SharpSnmpLib_Sequence_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.#ctor(Lextm.SharpSnmpLib.Sequence)">TrapV1Message(Sequence)</h4>
+  <div class="markdown level1 summary">
+Creates a <a class="xref" href="Lextm.SharpSnmpLib.Messaging.TrapV1Message.html">TrapV1Message</a> instance with a message body.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public TrapV1Message(Sequence body)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Sequence.html">Sequence</a></td>
+        <td><span class="parametername">body</span></td>
+        <td>Message body</td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message__ctor_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.#ctor*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message__ctor_Lextm_SharpSnmpLib_VersionCode_System_Net_IPAddress_Lextm_SharpSnmpLib_OctetString_Lextm_SharpSnmpLib_ObjectIdentifier_Lextm_SharpSnmpLib_GenericCode_System_Int32_System_UInt32_System_Collections_Generic_IList_Lextm_SharpSnmpLib_Variable__" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.#ctor(Lextm.SharpSnmpLib.VersionCode,System.Net.IPAddress,Lextm.SharpSnmpLib.OctetString,Lextm.SharpSnmpLib.ObjectIdentifier,Lextm.SharpSnmpLib.GenericCode,System.Int32,System.UInt32,System.Collections.Generic.IList{Lextm.SharpSnmpLib.Variable})">TrapV1Message(VersionCode, IPAddress, OctetString, ObjectIdentifier, GenericCode, Int32, UInt32, IList&lt;Variable&gt;)</h4>
+  <div class="markdown level1 summary">
+Creates a <a class="xref" href="Lextm.SharpSnmpLib.Messaging.TrapV1Message.html">TrapV1Message</a> with all content.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">[CLSCompliant(false)]
+public TrapV1Message(VersionCode version, IPAddress agent, OctetString community, ObjectIdentifier enterprise, GenericCode generic, int specific, uint time, IList&lt;Variable&gt; variables)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.VersionCode.html">VersionCode</a></td>
+        <td><span class="parametername">version</span></td>
+        <td>Protocol version</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Net.IPAddress</span></td>
+        <td><span class="parametername">agent</span></td>
+        <td>Agent address</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.OctetString.html">OctetString</a></td>
+        <td><span class="parametername">community</span></td>
+        <td>Community name</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.ObjectIdentifier.html">ObjectIdentifier</a></td>
+        <td><span class="parametername">enterprise</span></td>
+        <td>Enterprise</td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.GenericCode.html">GenericCode</a></td>
+        <td><span class="parametername">generic</span></td>
+        <td>Generic</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">specific</span></td>
+        <td>Specific</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.UInt32</span></td>
+        <td><span class="parametername">time</span></td>
+        <td>Time</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IList</span>&lt;<a class="xref" href="Lextm.SharpSnmpLib.Variable.html">Variable</a>&gt;</td>
+        <td><span class="parametername">variables</span></td>
+        <td>Variables</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_AgentAddress_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.AgentAddress*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_AgentAddress" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.AgentAddress">AgentAddress</h4>
+  <div class="markdown level1 summary">
+Agent address.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IPAddress AgentAddress { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Net.IPAddress</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Community_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Community*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Community" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Community">Community</h4>
+  <div class="markdown level1 summary">
+Community name.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public OctetString Community { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.OctetString.html">OctetString</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Enterprise_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Enterprise*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Enterprise" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Enterprise">Enterprise</h4>
+  <div class="markdown level1 summary">
+Enterprise.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ObjectIdentifier Enterprise { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.ObjectIdentifier.html">ObjectIdentifier</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Generic_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Generic*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Generic" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Generic">Generic</h4>
+  <div class="markdown level1 summary">
+Generic type.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public GenericCode Generic { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.GenericCode.html">GenericCode</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Header_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Header*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Header" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Header">Header</h4>
+  <div class="markdown level1 summary">
+Gets the header.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Header Header { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Header.html">Header</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Parameters_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Parameters*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Parameters" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Parameters">Parameters</h4>
+  <div class="markdown level1 summary">
+Gets the parameters.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SecurityParameters Parameters { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.SecurityParameters.html">SecurityParameters</a></td>
+        <td>The parameters.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Parameters_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><a class="xref" href="Lextm.SharpSnmpLib.Messaging.TrapV1Message.html">TrapV1Message</a> returns null here.</div>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Privacy_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Privacy*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Privacy" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Privacy">Privacy</h4>
+  <div class="markdown level1 summary">
+Gets the privacy provider.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public IPrivacyProvider Privacy { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Security.IPrivacyProvider.html">IPrivacyProvider</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Scope_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Scope*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Scope" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Scope">Scope</h4>
+  <div class="markdown level1 summary">
+Gets the scope.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Scope Scope { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.Scope.html">Scope</a></td>
+        <td>The scope.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Scope_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><a class="xref" href="Lextm.SharpSnmpLib.Messaging.TrapV1Message.html">TrapV1Message</a> returns null here.</div>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Specific_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Specific*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Specific" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Specific">Specific</h4>
+  <div class="markdown level1 summary">
+Specific type.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Specific { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_TimeStamp_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.TimeStamp*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_TimeStamp" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.TimeStamp">TimeStamp</h4>
+  <div class="markdown level1 summary">
+Time stamp.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">[CLSCompliant(false)]
+public uint TimeStamp { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.UInt32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Version_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Version*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_Version" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.Version">Version</h4>
+  <div class="markdown level1 summary">
+Protocol version.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public VersionCode Version { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Lextm.SharpSnmpLib.VersionCode.html">VersionCode</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToBytes_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.ToBytes*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToBytes" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.ToBytes">ToBytes()</h4>
+  <div class="markdown level1 summary">
+To byte format.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public byte[] ToBytes()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Byte</span>[]</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <a id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToString_" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.ToString*"></a>
+  <h4 id="Lextm_SharpSnmpLib_Messaging_TrapV1Message_ToString" data-uid="Lextm.SharpSnmpLib.Messaging.TrapV1Message.ToString">ToString()</h4>
+  <div class="markdown level1 summary">
+Returns a <span class="xref">System.String</span> that represents the current <a class="xref" href="Lextm.SharpSnmpLib.Messaging.TrapV1Message.html">TrapV1Message</a>.
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override string ToString()</code></pre>
+  </div>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><span class="xref">System.Object.ToString()</span></div>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.ISnmpMessage.html">ISnmpMessage</a>
+  </div>
+  <h3 id="extensionmethods">Extension Methods</h3>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_TypeCode_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_">SnmpMessageExtension.TypeCode(ISnmpMessage)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Variables_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_">SnmpMessageExtension.Variables(ISnmpMessage)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_RequestId_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_">SnmpMessageExtension.RequestId(ISnmpMessage)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_MessageId_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_">SnmpMessageExtension.MessageId(ISnmpMessage)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Pdu_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_">SnmpMessageExtension.Pdu(ISnmpMessage)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Community_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_">SnmpMessageExtension.Community(ISnmpMessage)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Send_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_EndPoint_">SnmpMessageExtension.Send(ISnmpMessage, EndPoint)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_Send_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_EndPoint_System_Net_Sockets_Socket_">SnmpMessageExtension.Send(ISnmpMessage, EndPoint, Socket)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Int32_System_Net_IPEndPoint_Lextm_SharpSnmpLib_Security_UserRegistry_">SnmpMessageExtension.GetResponse(ISnmpMessage, Int32, IPEndPoint, UserRegistry)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Int32_System_Net_IPEndPoint_">SnmpMessageExtension.GetResponse(ISnmpMessage, Int32, IPEndPoint)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Int32_System_Net_IPEndPoint_System_Net_Sockets_Socket_">SnmpMessageExtension.GetResponse(ISnmpMessage, Int32, IPEndPoint, Socket)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponse_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Int32_System_Net_IPEndPoint_Lextm_SharpSnmpLib_Security_UserRegistry_System_Net_Sockets_Socket_">SnmpMessageExtension.GetResponse(ISnmpMessage, Int32, IPEndPoint, UserRegistry, Socket)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_EndGetResponse_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_IAsyncResult_">SnmpMessageExtension.EndGetResponse(ISnmpMessage, IAsyncResult)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_BeginGetResponse_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_IPEndPoint_Lextm_SharpSnmpLib_Security_UserRegistry_System_Net_Sockets_Socket_System_AsyncCallback_System_Object_">SnmpMessageExtension.BeginGetResponse(ISnmpMessage, IPEndPoint, UserRegistry, Socket, AsyncCallback, Object)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_SendAsync_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_EndPoint_">SnmpMessageExtension.SendAsync(ISnmpMessage, EndPoint)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_SendAsync_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_EndPoint_System_Net_Sockets_Socket_">SnmpMessageExtension.SendAsync(ISnmpMessage, EndPoint, Socket)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponseAsync_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_IPEndPoint_Lextm_SharpSnmpLib_Security_UserRegistry_">SnmpMessageExtension.GetResponseAsync(ISnmpMessage, IPEndPoint, UserRegistry)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponseAsync_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_IPEndPoint_">SnmpMessageExtension.GetResponseAsync(ISnmpMessage, IPEndPoint)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponseAsync_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_IPEndPoint_System_Net_Sockets_Socket_">SnmpMessageExtension.GetResponseAsync(ISnmpMessage, IPEndPoint, Socket)</a>
+  </div>
+  <div>
+      <a class="xref" href="Lextm.SharpSnmpLib.Messaging.SnmpMessageExtension.html#Lextm_SharpSnmpLib_Messaging_SnmpMessageExtension_GetResponseAsync_Lextm_SharpSnmpLib_Messaging_ISnmpMessage_System_Net_IPEndPoint_Lextm_SharpSnmpLib_Security_UserRegistry_System_Net_Sockets_Socket_">SnmpMessageExtension.GetResponseAsync(ISnmpMessage, IPEndPoint, UserRegistry, Socket)</a>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+             
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../../styles/docfx.js"></script>
+    <script type="text/javascript" src="../../styles/main.js"></script>
+    <script type='text/javascript'>
+        function _dmBootstrap(file) {
+            var _dma = document.createElement('script');
+            _dma.type = 'text/javascript';
+            _dma.async = true;
+            _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+        }
+        function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+        (function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+    </script>
+  </body>
+</html>
